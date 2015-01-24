@@ -7,9 +7,9 @@
 * [Codecademy's HTML/CSS Track](http://www.codecademy.com/en/tracks/web)
 
 **OPTIONAL**
-
-* [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+* [HTML/CSS: Making Webpages - khanacademy.org](https://www.khanacademy.org/computing/computer-programming/html-css)
 * [Front-end Foundations Slides - codeschool.com](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
+* [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 
 #### Sinatra
 
