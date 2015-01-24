@@ -10,6 +10,7 @@
 * [HTML/CSS: Making Webpages - khanacademy.org](https://www.khanacademy.org/computing/computer-programming/html-css)
 * [Front-end Foundations Slides - codeschool.com](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
 * [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+* [30 Days to Learn HTML & CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
 
 #### Sinatra
 
