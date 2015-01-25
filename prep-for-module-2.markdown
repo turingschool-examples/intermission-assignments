@@ -1,6 +1,6 @@
 ## Assignments to prep for Module 2
 
-#### HTML/CSS
+### HTML/CSS
 
 **REQUIRED**
 
@@ -12,7 +12,7 @@
 * [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 * [30 Days to Learn HTML & CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
 
-#### Sinatra
+### Sinatra
 
 **REQUIRED**
 
