@@ -16,7 +16,8 @@
 
 **REQUIRED**
 
-* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
+* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): This project should take you 2-4 hours. Add one of the three extensions. 
+* [Task Manager](#)
 
 **OPTIONAL**
 
