@@ -1,6 +1,14 @@
-## Assignments to prep for Module 2
+# Assignments to prep for Module 2
 
-### HTML/CSS
+## Setup
+
+* install Rails: `gem install rails`
+* install postgres: 
+```
+$ brew install postgresql
+
+
+## HTML/CSS
 
 **REQUIRED**
 
@@ -12,12 +20,13 @@
 * [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 * [30 Days to Learn HTML & CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
 
-### Sinatra
+## Sinatra
 
 **REQUIRED**
 
-* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): This project should take you 2-4 hours. Add one of the three extensions. 
-* [Task Manager](#)
+* [Getting Started with Sinatra](http://tutorials.jumpstartlab.com/topics/sinatra/getting_started.html): Skip the "Rendering JSON" section. This should take you 1 hour. 
+* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Build out base functionality and add one of the three extensions. This project should take you 2-4 hours. 
+* [Task Manager](#): This project will be up by Monday. It should take 3-6 hours. 
 
 **OPTIONAL**
 
