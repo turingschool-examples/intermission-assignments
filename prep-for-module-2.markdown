@@ -2,11 +2,8 @@
 
 ## Setup
 
-* install Rails: `gem install rails`
-* install postgres: 
-```
-$ brew install postgresql
-
+* install Rails if you don't already have it: `gem install rails`
+* install postgres if you don't already have it:`brew install postgresql`
 
 ## HTML/CSS
 
