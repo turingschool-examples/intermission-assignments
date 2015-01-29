@@ -5,6 +5,7 @@
 **REQUIRED**
 
 * [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css): Approximately 3-6 hours.
+* Build a personal webpage using your new HTML/CSS skills: Approximately 2-3 hours. 
 
 **OPTIONAL**
 
