@@ -4,9 +4,10 @@
 
 **REQUIRED**
 
-* [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+* [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css): Approximately 3-6 hours.
 
 **OPTIONAL**
+
 * [Codecademy's HTML/CSS Track](http://www.codecademy.com/en/tracks/web)
 * [CodeSchool's Front-end Foundations Slides](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
 * [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
@@ -16,9 +17,8 @@
 
 **REQUIRED**
 
-* [Getting Started with Sinatra](http://tutorials.jumpstartlab.com/topics/sinatra/getting_started.html): Skip the "Rendering JSON" section. This should take you 1 hour. 
-* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Build out base functionality and add one of the three extensions. This project should take you 2-4 hours. 
-* [Task Manager](#): This project will be up by Monday. It should take 3-6 hours. 
+* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Build out base functionality and add one of the three extensions. Approximately 2-4 hours.
+* [Task Manager](#): This project will be up by Monday. Approximately 3-6 hours. Build it twice :) 
 
 **OPTIONAL**
 
