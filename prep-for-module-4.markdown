@@ -16,16 +16,16 @@ You should have a link to your repository posted [here][jfsub] by Monday, Februa
 
 ## Study
 
-* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
+* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes, due 2/2)
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-* **Read**: Both of the following style guides (30 minutes)
+* **Read**: Both of the following style guides (30 minutes, due 2/3)
   * [thoughtbot's style guide for Ruby][tbruby].
   * [Airbnb's JavaScript style guide][airbnbjs].
   * When you glanced over the style guides, which aspects made you jump out of your chair and say "YES!" and which ones made you grumble in quiet, reserved discontent?
-* **Read**: One of the following books:
+* **Read**: One of the following books (Due 2/9):
   * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) by Reginald Braithwaite
   * [Speaking JavaScript](http://speakingjs.com/es5/) by Dr. Axel Rauschmayer
-* **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
+* **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours, due 2/6)
   * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
 
 ### Optional
