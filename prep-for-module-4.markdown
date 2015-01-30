@@ -31,6 +31,7 @@ You should have a link to your repository posted [here][jfsub] by Monday, Februa
 ### Optional
 
 * **Read**: [Using Arel to Compose SQL Queries][arel] by Sean Griffin
+* **Read**: [How I Start][his] (Building a Ruby Gem) by Steve Klabnik
 
 [sandi]: http://robots.thoughtbot.com/sandi-metz-rules-for-developers
 [tbruby]: https://github.com/thoughtbot/guides/tree/master/style#ruby
@@ -40,3 +41,4 @@ You should have a link to your repository posted [here][jfsub] by Monday, Februa
 [tomdale]: http://shoptalkshow.com/episodes/147-tom-dale/
 [speakingjs]: http://speakingjs.com/es5/
 [allonge]: https://leanpub.com/javascript-allonge/read
+[his]: https://howistart.org/posts/ruby/1
