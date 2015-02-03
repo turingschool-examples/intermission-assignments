@@ -19,7 +19,7 @@
 **REQUIRED**
 
 * [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Build out base functionality and add one of the three extensions. Approximately 2-4 hours.
-* [Task Manager](#): This project will be up by Monday. Approximately 3-6 hours. Build it twice :) 
+* [Task Manager](http://tutorials.jumpstartlab.com/projects/task_manager.html): The first part of this project is up! The entire tutorial will take approximately 4-6 hours. Build it twice :) 
 
 **OPTIONAL**
 
