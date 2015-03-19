@@ -4,8 +4,8 @@
 
 **REQUIRED**
 
-* [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css): Super informative, slightly annoying at points :) Approximately 2-5 hours.
-* Build a personal webpage using your new HTML/CSS skills: Approximately 2-3 hours. 
+* [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css): Super informative, slightly annoying at points :) Approximately 2-5 hours. 
+* Build a personal webpage using your new HTML/CSS skills: Approximately 2-3 hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/personal_html_css.yml) by **Thursday, March 26**. 
 
 **OPTIONAL**
 
@@ -18,8 +18,8 @@
 
 **REQUIRED**
 
-* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Build out base functionality and add one of the three extensions. Approximately 2-4 hours.
-* [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown): The entire tutorial will take approximately 2-4 hours. Build it twice :) 
+* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Continue building out base functionality and add one of the three extensions. Approximately 2-4 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/webguesser.yml) by **Tuesday, March 24**. 
+* [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown): The entire tutorial will take approximately 2-4 hours. Build it twice :) Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/task_manager.yml) by **Saturday, March 28. You will be using your finished project on the first day of module 2.** 
 
 **OPTIONAL**
 
@@ -29,4 +29,4 @@
 ## Get Module 2 Tools
 
 * install Rails if you don't already have it: `gem install rails`
-* install postgres if you don't already have it:`brew install postgresql`
+* download [Postgres app](http://postgresapp.com/)
