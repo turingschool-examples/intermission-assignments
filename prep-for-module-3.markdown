@@ -1,4 +1,4 @@
-# Assignments to prep for Module 3
+# Assignments to Prep for Module 3
 
 ## Ruby on Rails
 
