@@ -7,7 +7,7 @@
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book): Use this book / tutorial to dive into the Ruby on Rails framework. This will allow us to have a strong foundation that will enable us to learn the contents of module 3.
 * [A Guide to Testing Ruby on Rails Applications](http://guides.rubyonrails.org/testing.html): Testing is quite important in our community. Learn the preferred way of testing your Rails apps according to the Rails core team.
 * [How We Test Rails Applications](http://robots.thoughtbot.com/how-we-test-rails-applications): In every community, there are various opinions on how to do the same thing. Learn how Thoughtbot likes to test their applications in this brief guide.
-* [DHH on Ruby Rogues](http://devchat.tv/ruby-rogues/056-rr-david-heinemeier-hansson): Tools and frameworks are made by people, and they reflect the perspectives and opinions of their makers. In this podcast episode, learn what DHH -the creator or Rails- thinks about programming, Rails and the future of web development.
+* [DHH on Ruby Rogues](http://devchat.tv/ruby-rogues/056-rr-david-heinemeier-hansson): Tools and frameworks are made by people, and they reflect the perspectives and opinions of their makers. In this podcast episode, learn what DHH —the creator or Rails— thinks about programming, Rails and the future of web development.
 
 **OPTIONAL**
 
