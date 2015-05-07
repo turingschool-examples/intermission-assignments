@@ -12,7 +12,7 @@ You'll be building a modified version of [Jet Fuel](https://gist.github.com/stev
 
 You should have a link to your repository posted [here][jfsub]. The project itself doesn't need to be done until the first day of the module.
 
-[jfsub]: https://github.com/turingschool/intermission-assignments/issues/7
+[jfsub]: https://github.com/turingschool/intermission-assignments/issues/18
 
 ## Study
 
