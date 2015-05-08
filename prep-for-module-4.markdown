@@ -8,9 +8,11 @@ You're expected to contribute in each of the issue discussion threads. We'll als
 
 ## Build
 
-You'll be building a modified version of [Jet Fuel](https://gist.github.com/stevekinney/cac8d9374e99a0d7d4b2).
+We're going to be working through [Rebecca Murphey's test-driven JavaScript assessment][jsa].
 
-You should have a link to your repository posted [here][jfsub]. The project itself doesn't need to be done until the first day of the module.
+[jsa]: https://github.com/rmurphey/js-assessment
+
+Fork the repository. You should have a link to your fork posted [here][jfsub]. If you have any questions or if anything is unclear, let Steve know.
 
 [jfsub]: https://github.com/turingschool/intermission-assignments/issues/18
 
