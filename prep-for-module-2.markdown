@@ -5,7 +5,7 @@
 **REQUIRED**
 
 * Unless you have **significant** experience with HTML and CSS, complete [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css) course: Super informative, slightly obnoxious at points :) Approximately 2-5 hours. 
-* Build a personal webpage using your new HTML/CSS skills: Approximately 1-3 hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/personal_html_css.yml) by **Thursday, March 26**. 
+* Build a personal webpage using your new HTML/CSS skills: Approximately 1-3 hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1503/module_2_prep/personal_html_css.yml) by **Thursday, March 26**. 
 
 **OPTIONAL**
 
@@ -18,8 +18,8 @@
 
 **REQUIRED**
 
-* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Continue building out base functionality and add one of the three extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/webguesser.yml) by **Tuesday, March 24**. 
-* [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown): The entire tutorial will take approximately 2-4 hours. Build it twice :) Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/task_manager.yml) by **Saturday, March 28. You will need to have this project finished before you can attend any class in module 2.** 
+* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Continue building out base functionality and add one of the three extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1503/module_2_prep/webguesser.yml) by **Tuesday, March 24**. 
+* [Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1503/module_2_prep/task_manager.yml): The entire tutorial will take approximately 2-4 hours. Build it twice :) Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1502/module_2_prep/task_manager.yml) by **Saturday, March 28. You will need to have this project finished before you can attend any class in module 2.** 
 
 **OPTIONAL**
 
