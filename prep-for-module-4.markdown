@@ -10,7 +10,7 @@ During Module 4 we'll be focusing on a few topics:
 The assignments below are intended to help give us some context for working through these topics, so as
 you read/work through them, consider how they conform to or conflict with what you've seen so far about Ruby and Javascript.
 
-### Submitting your "Work"
+### Submitting your Work
 
 Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. We'll also have large and small group discussions on the monday you return.
 
