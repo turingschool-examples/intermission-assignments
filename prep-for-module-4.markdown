@@ -24,7 +24,7 @@ We're going to be working through [Rebecca Murphey's test-driven JavaScript asse
 
 Fork the repository. You should have a link to your fork posted [here][jfsub]. If you have any questions or if anything is unclear, let Steve know.
 
-[jfsub]: https://github.com/turingschool/intermission-assignments/issues/18
+[jfsub]: https://github.com/turingschool/intermission-assignments/issues/20
 
 ## Study
 
