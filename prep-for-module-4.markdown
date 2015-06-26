@@ -24,7 +24,7 @@ We're going to be working through [Rebecca Murphey's test-driven JavaScript asse
 
 Fork the repository. You should have a link to your fork posted [here][jfsub]. If you have any questions or if anything is unclear, let Steve know.
 
-[jfsub]: https://github.com/turingschool/intermission-assignments/issues/18
+[jfsub]: https://github.com/turingschool/intermission-assignments/issues/20
 
 ## Study
 
@@ -34,7 +34,7 @@ Fork the repository. You should have a link to your fork posted [here][jfsub]. I
 * **Read**: Both of the following style guides (30 minutes)
   * [thoughtbot's style guide for Ruby][tbruby].
   * [Airbnb's JavaScript style guide][airbnbjs].
-  * When you glanced over the style guides, which aspects made you jump out of your chair and say "YES!" and which ones made you grumble in quiet, reserved discontent?
+  * What is the value of a style guide? When you glanced over the style guides, which aspects made you jump out of your chair and say "YES!" and which ones made you grumble in quiet, reserved discontent?
 * **Read**: [Speaking JavaScript](http://speakingjs.com/es5/), please read the following chapters:
   * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
   * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
