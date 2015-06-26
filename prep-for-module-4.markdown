@@ -1,10 +1,20 @@
 # Module 4 Intermission Assignments
 
-Each of the assignments has (or will have) a Github issue associated with it [here][ghissues].
+During Module 4 we'll be focusing on a few topics:
 
-You're expected to contribute in each of the issue discussion threads. We'll also have large and small group discussions on the monday you return.
+* Expanding your existing Javascript knowledge to build more sophisticated UI-driven applications
+* Expanding your Ruby and Rails knowledge to build web applications using more sophisticated
+  architectural patterns
+* Exploring new tools in both the Javascript and Ruby ecosystems that help us achieve these goals
 
-[ghissues]: https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1410
+The assignments below are intended to help give us some context for working through these topics, so as
+you read/work through them, consider how they conform to or conflict with what you've seen so far about Ruby and Javascript.
+
+### Submitting your "Work"
+
+Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. We'll also have large and small group discussions on the monday you return.
+
+[ghissues]: https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1502
 
 ## Build
 
@@ -30,12 +40,12 @@ Fork the repository. You should have a link to your fork posted [here][jfsub]. I
   * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
   * [Chapter 16: Variables: Scopes, Environments, and Closures](http://speakingjs.com/es5/ch16.html)
   * [Chapter 17: Objects and Inheritance](http://speakingjs.com/es5/ch17.html)
-* **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * **Read**: [Using Arel to Compose SQL Queries][arel] by Sean Griffin
 
 ### Optional
 
 * **Read**: [How I Start][his] (Building a Ruby Gem) by Steve Klabnik
+* **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
   * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
 
