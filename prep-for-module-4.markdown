@@ -50,7 +50,7 @@ Here are are a few more "philosophical" materials to hopefully help us contempla
 
 * [Execution in the Kingdom of Nouns by Steve Yegge](http://steve-yegge.blogspot.ca/2006/03/execution-in-kingdom-of-nouns.html) - You've been doing object-oriented programming for almost 6 months now. What are some of the limitations imposed by this approach? How do Ruby and/or Javascript capture the benefits of OO while avoiding some of pitfalls?
 * [Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0) - As we move into working on larger and more sophisticated systems, some of the approaches that have worked on smaller projects may no longer be so effective. What does Rich Hickey say about the common pitfalls of Ruby and Rails applications?
-* [The Birth and Death of Javascript by Gary Bernhardt](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - This talk is somewhat tongue-in-cheek, but what does Bernhardt suggest about the role of Javascript in shaping the modern web?
+* [The Birth and Death of Javascript by Gary Bernhardt](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - This talk takes a tongue-in-cheek tone, but the concepts discussed are very topical. What does Bernhardt suggest about the role of Javascript in shaping the modern web?
 * [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos) - What does Glenn have to say about Software Engineering as a discipline? How does Software Engineering differ fundamentally from other Engineering disciplines? What can we as Software Engineers take away from other disciplines?
 
 ### Optional
