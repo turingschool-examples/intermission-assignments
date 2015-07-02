@@ -62,7 +62,7 @@ Here are are a few more "philosophical" materials to hopefully help us contempla
   * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
 
 [sandi]: http://robots.thoughtbot.com/sandi-metz-rules-for-developers
-[tbruby]: https://github.com/thoughtbot/guides/tree/master/style#ruby
+[tbruby]: https://github.com/thoughtbot/guides/tree/master/style/ruby
 [airbnbjs]: https://github.com/airbnb/javascript
 [hound]: http://robots.thoughtbot.com/introducing-hound
 [arel]: http://robots.thoughtbot.com/using-arel-to-compose-sql-queries
