@@ -2,7 +2,7 @@
 
 ## Ruby on Rails -- Required
 
-__[Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)__
+* __Do:__ [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 
 We'll use this book to recap Rails fundamentals and make sure everyone is on a solid footing going into module 3. The tutorial takes you through building a simple but relatively robust micro-messaging application, à la Twitter.
 
