@@ -17,7 +17,7 @@
 * [Design for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 * [Codecademy's HTML/CSS Track](http://www.codecademy.com/en/tracks/web)
 * [CodeSchool's Front-end Foundations Slides](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
-* [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+* [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) (Great book and resource)
 * [30 Days to Learn HTML & CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
 
 ## Sinatra
