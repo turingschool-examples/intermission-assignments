@@ -23,6 +23,13 @@ Some of the material included in the book covers foundational concepts (`git`, b
 
 JavaScript is the scripting language of web browsers. During Module 3 we'll start getting our first introductions to JS and we'd like you to work through some basic materials as a preparation.
 
+Focus primarily on the sections for:
+
+* Functions
+* Control Flow
+* Data Structures
+* Objects I and Objects II
+
 **OPTIONAL**
 
 Jquery is a popular javascript library for manipulating the content of web pages. Dip your toes in with this introductory Jquery class:
