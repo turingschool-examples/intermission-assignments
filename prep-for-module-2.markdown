@@ -10,7 +10,7 @@
 
   2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours. 
 
-* Build a personal webpage using your new HTML/CSS skills: Approximately 3+ hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1505/module_2_prep/personal_html_css.yml) by **Thursday, July 2**. 
+* Build a personal webpage using your new HTML/CSS skills: Approximately 3+ hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1505/module_2_prep/personal_html_css.yml) by **Thursday, August 20**. 
 
 **OPTIONAL**
 
