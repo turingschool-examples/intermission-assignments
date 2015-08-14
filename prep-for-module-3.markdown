@@ -17,11 +17,11 @@ Some of the material included in the book covers foundational concepts (`git`, b
 
 ## JavaScript
 
-JavaScript is the scripting language of web browsers. During Module 3 we'll start getting our first introductions to JS and we'd like you to work through some basic materials as a preparation.
-
 **REQUIRED**
 
-* [Codecademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript):
+* __Do:__ [Codecademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript):
+
+JavaScript is the scripting language of web browsers. During Module 3 we'll start getting our first introductions to JS and we'd like you to work through some basic materials as a preparation.
 
 **OPTIONAL**
 
