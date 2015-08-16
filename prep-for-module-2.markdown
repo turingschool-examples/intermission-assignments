@@ -4,13 +4,13 @@
 
 **REQUIRED**
 
-* Unless you have **significant** experience with HTML and CSS, choose one of these to complete: 
+* Unless you have **significant** experience with HTML and CSS, choose one of these to complete:
 
-  1) [Shay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/). Written tutorial. Super informative and comprehensive. Not obnoxious. Lots of hours. 
+  1) [Shay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/). Written tutorial. Super informative and comprehensive. Not obnoxious. Lots of hours.
 
-  2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours. 
+  2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
 
-* Build a personal webpage using your new HTML/CSS skills: Approximately 3+ hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1505/module_2_prep/personal_html_css.yml) by **Thursday, August 20**. 
+* Build a personal webpage using your new HTML/CSS skills: Approximately 3+ hours. Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1507/module_2_prep/personal-html-css.yml) by **Thursday, August 20**.
 
 **OPTIONAL**
 
@@ -24,8 +24,8 @@
 
 **REQUIRED**
 
-* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Continue building out base functionality and add one of the three extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1505/module_2_prep/webguesser.yml) by **Tuesday, August 18**. 
-* [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown): The entire tutorial will take approximately 2-4 hours. Build it twice :) Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1505/module_2_prep/task_manager.yml) by **Saturday, August 22. You will need to have this project finished before you can attend any class in module 2.** 
+* [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Continue building out base functionality and add one of the three extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1507/module_2_prep/webguesser.yml) by **Tuesday, August 18**.
+* [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown): The entire tutorial will take approximately 2-4 hours. Build it twice :) Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1507/module_2_prep/task-manager.yml) by **Saturday, August 22. You will need to have this project finished before you can attend any class in module 2.**
 
 **OPTIONAL**
 
