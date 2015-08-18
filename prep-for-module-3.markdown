@@ -1,10 +1,10 @@
-## Assignments to Prep for Module 3
+# Assignments to Prep for Module 3
 
-### Ruby on Rails
+## Ruby on Rails
 
-#### Required
+### Required
 
-##### Do
+#### Do
 
 [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 
@@ -12,29 +12,29 @@ We'll use this book to recap Rails fundamentals and make sure everyone is on a s
 
 Some of the material included in the book covers foundational concepts (`git`, basic ruby) that you are already comfortable with, so focus on chapters __3__ and __5 - 12__.
 
-##### Read
+#### Read
 
 [How We Test Rails Applications](http://robots.thoughtbot.com/how-we-test-rails-applications)
 
 In every community, there are various opinions on how to do the same thing. Learn how Thoughtbot likes to test their applications in this brief guide.
 
-##### Listen
+#### Listen
 
 [DHH on Ruby Rogues](http://devchat.tv/ruby-rogues/056-rr-david-heinemeier-hansson)
 
 Tools and frameworks are made by people, and they reflect the perspectives and opinions of their makers. In this podcast episode, learn what DHH —the creator or Rails— thinks about programming, Rails and the future of web development.
 
-#### Optional
+### Optional
 
 [Practical Object-Oriented Design in Ruby](http://www.amazon.com/gp/product/0321721330)
 
 Sandi Metz's book permanently changed the way I program. In this book, she teaches you how to write exceptionally well-factored code. At least try to read the first three chapters if you can.
 
-### JavaScript
+## JavaScript
 
-#### Required
+### Required
 
-##### Do
+#### Do
 
 [Codecademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
 
@@ -47,15 +47,15 @@ Focus primarily on the sections for:
 * Data Structures
 * Objects I and Objects II
 
-#### Optional
+### Optional
 
 [jQuery](https://www.codeschool.com/courses/try-jquery)
 
 Jquery is a popular javascript library for manipulating the content of web pages. Dip your toes in with this introductory Jquery class:
 
-### Front-End Development
+## Front-End Development
 
-#### Optional
+### Optional
 
 * [Bootstrap](http://getbootstrap.com)
 * [HAML](http://haml.info/tutorial.html)
