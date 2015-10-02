@@ -45,7 +45,6 @@ You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundament
 ### Optional
 
 * **Read**: [Using Arel to Compose SQL Queries][arel] by Sean Griffin
-* **Read**: [How I Start][his] (Building a Ruby Gem) by Steve Klabnik
 * **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
   * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
@@ -67,4 +66,3 @@ Here are are a few more "philosophical" materials to hopefully help us contempla
 [tomdale]: http://shoptalkshow.com/episodes/147-tom-dale/
 [speakingjs]: http://speakingjs.com/es5/
 [allonge]: https://leanpub.com/javascript-allonge/read
-[his]: https://howistart.org/posts/ruby/1
