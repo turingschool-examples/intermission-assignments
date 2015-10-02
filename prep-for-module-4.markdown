@@ -35,10 +35,6 @@ You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundament
 
 * **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-* **Read**: Both of the following style guides (30 minutes)
-  * [thoughtbot's style guide for Ruby][tbruby].
-  * [Airbnb's JavaScript style guide][airbnbjs].
-  * What is the value of a style guide? When you glanced over the style guides, which aspects made you jump out of your chair and say "YES!" and which ones made you grumble in quiet, reserved discontent?
 * **Read**: [Speaking JavaScript](http://speakingjs.com/es5/), please read the following chapters:
   * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
   * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
