@@ -13,7 +13,9 @@
 * Build a personal blog site. There are three options for this project:
 
   1) MILD: Build a personal site with a blog portion using plain HTML and CSS. At minimum, your site should contain an `index.html`, `styles.css`, and a first blog post: `insert-first-post-title-here.html`. 
+
   2) MEDIUM: Clone [this Jekyll starter repo](). Remove the `.git` folder (`rm -rf .git`) and rename the repository `yourgithubusername.github.io`. Check out the README for instructions on how to view your site. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown). 
+  
   3) SPICY: Use the [Jekyll Docs](http://jekyllrb.com/docs/home/) to set up your own blog. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown). 
 
 * Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_2_prep/personal-html-css.yml) by **Thursday, November 26**.
