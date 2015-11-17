@@ -30,15 +30,23 @@ Add a link to your personal webpage repository [here](https://github.com/turings
 
 ## Sinatra
 
-### Task #1: [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Continue building out base functionality and add one of the three extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_2_prep/webguesser.yml) by **Tuesday, October 6**.
+### Task #1: [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
 
-### Task #2: [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown): The entire tutorial will take approximately 2-4 hours. Build it twice :) Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_2_prep/task-manager.yml) by **Saturday, October 10. You will need to have this project finished before you can attend any class in module 2.**
+Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1510/module_2_prep/webguesser.yml) by **Tuesday, October 6**.
+
+### Task #2: [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown)
+
+The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1510/module_2_prep/task-manager.yml) by **Saturday, October 10. You will need to have this project finished before you can attend any class in module 2.**
 
 ## Get Module 2 Tools
 
-### Task #1: Install Rails if you don't already have it: `gem install rails`
+### Task #1: Install Rails 
 
-### Task #2: Download the [Postgres app](http://postgresapp.com/)
+If you don't already have it: `gem install rails`.
+
+### Task #2: Download Postgres
+
+Download the [Postgres app](http://postgresapp.com/).
 
 ## Optional Additional Prep Work
 
