@@ -48,6 +48,20 @@ If you don't already have it: `gem install rails`.
 
 Download the [Postgres app](http://postgresapp.com/).
 
+__OR: Use Homebrew to install Postgres:__
+
+From your terminal, run:
+
+```
+brew update
+brew install postgres
+ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+```
+
+These last 2 lines will set up a special Daemon init file so that your operating
+system will start postgres automatically whenever you log in.
+
 ## Optional Additional Prep Work
 
 * [Design for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
