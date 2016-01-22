@@ -32,6 +32,12 @@ Please work through _at least two_ of the following courses:
 
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
+### Exercisms
+
+Complete exercism.io exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got
+If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
+[Here is an example of what we expect.](https://gist.github.com/tgraham777/9f284f096ba9da89a159)
+
 ## Study
 
 * **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
