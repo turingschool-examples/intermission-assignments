@@ -22,10 +22,11 @@ This week, you'll be working through some workshopper courses at [nodeschool.io]
 
 [ns]: http://nodeschool.io
 
-Please work through the following courses:
+Please work through _at least two_ of the following courses:
 
 * [javascripting](https://github.com/sethvincent/javascripting)
 * [lololodash](https://github.com/mdunisch/lololodash)
+* [ExpressWorks](https://github.com/azat-co/expressworks)
 
 ### jQuery Fundamentals
 
