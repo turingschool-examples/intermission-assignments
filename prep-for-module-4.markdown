@@ -12,11 +12,17 @@ you read/work through them, consider how they conform to or conflict with what y
 
 ### Submitting your Work
 
-Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. **Non-optional assignments will be due for points** We'll also have large and small group discussions on the monday you return.
+Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. 
+
+The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. 
+
+**Non-optional assignments will be due for points** We'll also have large and small group discussions on the monday you return.
 
 [ghissues]: https://github.com/turingschool/intermission-assignments/labels/1510
 
-## Code
+## Code (
+
+### NoteSchool.io (10 points)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
@@ -28,11 +34,11 @@ Please work through _at least two_ of the following courses:
 * [lololodash](https://github.com/mdunisch/lololodash)
 * [ExpressWorks](https://github.com/azat-co/expressworks)
 
-### jQuery Fundamentals
+### jQuery Fundamentals (10 points)
 
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
-### Exercisms
+### Exercisms (10 points)
 
 Complete [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
@@ -42,13 +48,14 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 ## Study
 
-* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
+* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes) (5 points)
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-* **Read**: [Speaking JavaScript](http://speakingjs.com/es5/), please read the following chapters:
-  * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
-  * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
-  * [Chapter 16: Variables: Scopes, Environments, and Closures](http://speakingjs.com/es5/ch16.html)
-  * [Chapter 17: Objects and Inheritance](http://speakingjs.com/es5/ch17.html)
+* **Read**: [Speaking JavaScript](http://speakingjs.com/es5/) (5 points)
+  * please read the following chapters: 
+    * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
+    * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
+    * [Chapter 16: Variables: Scopes, Environments, and Closures](http://speakingjs.com/es5/ch16.html)
+    * [Chapter 17: Objects and Inheritance](http://speakingjs.com/es5/ch17.html)
 
 
 ### Optional
