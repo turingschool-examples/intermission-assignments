@@ -22,7 +22,7 @@ The reading/watching assignments don't have "deliverables" per-se, but as you go
 
 ## Code
 
-### NoteSchool.io (10 points)
+### NodeSchool.io (10 points)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
