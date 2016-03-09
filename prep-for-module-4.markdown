@@ -12,9 +12,9 @@ you read/work through them, consider how they conform to or conflict with what y
 
 ### Submitting your Work
 
-Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. We'll also have large and small group discussions on the monday you return.
+Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. **Non optional assignments will be due for points** We'll also have large and small group discussions on the monday you return.
 
-[ghissues]: https://github.com/turingschool/intermission-assignments/issues
+[ghissues]: https://github.com/turingschool/intermission-assignments/labels/1510
 
 ## Code
 
