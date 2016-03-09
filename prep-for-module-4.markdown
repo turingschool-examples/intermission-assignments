@@ -20,7 +20,7 @@ The reading/watching assignments don't have "deliverables" per-se, but as you go
 
 [ghissues]: https://github.com/turingschool/intermission-assignments/labels/1510
 
-## Code (
+## Code
 
 ### NoteSchool.io (10 points)
 
@@ -48,9 +48,9 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 ## Study
 
-* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes) (5 points)
+* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes) **(5 points)**
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-* **Read**: [Speaking JavaScript](http://speakingjs.com/es5/) (5 points)
+* **Read**: [Speaking JavaScript](http://speakingjs.com/es5/) **(5 points)**
   * please read the following chapters: 
     * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
     * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
