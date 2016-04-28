@@ -40,7 +40,7 @@ You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundament
 
 ### Exercisms (10 points)
 
-Complete [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got
+Complete ***3*** [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 [Here is an example of what we expect.](https://gist.github.com/tgraham777/9f284f096ba9da89a159)
 
@@ -50,7 +50,7 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 * **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes) **(5 points)**
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-* **Read**: [Speaking JavaScript](http://speakingjs.com/es5/) **(5 points)**
+* **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) **(5 points)**
   * please read the following chapters: 
     * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
     * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
