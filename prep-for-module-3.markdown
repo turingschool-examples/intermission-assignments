@@ -6,11 +6,11 @@
 
 #### Do
 
-[Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+Rewrite your Little Shop `routes.rb`:
 
-We'll use this book to recap Rails fundamentals and make sure everyone is on a solid footing going into module 3. The tutorial takes you through building a simple but relatively robust micro-messaging application, à la Twitter.
+Module 3 requires you to know URLs, paths and HTTP verbs inside and out. Rewrite the routes file for your Little Shop to use only methods that map directly to HTTP verbs: `get`, `post`, `put`, `patch` and `delete`. You will probably need to add `to:` and `as:` parameters to make sure your apps continue to work, and tests continue to pass.
 
-Some of the material included in the book covers foundational concepts (`git`, basic ruby) that you are already comfortable with, so focus on chapters __3__ and __5 - 12__.
+If you do not own the repo for your project, fork it, and rewrite the routes file individually.
 
 #### Read
 
