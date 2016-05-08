@@ -18,7 +18,7 @@ The reading/watching assignments don't have "deliverables" per-se, but as you go
 
 **Non-optional assignments will be due for points** We'll also have large and small group discussions on the monday you return.
 
-[ghissues]: https://github.com/turingschool/intermission-assignments/labels/1510
+[ghissues]: https://github.com/turingschool/intermission-assignments/labels/1511
 
 ## Code
 
