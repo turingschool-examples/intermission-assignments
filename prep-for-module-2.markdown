@@ -2,8 +2,8 @@
 
 ## Required Assignments
 
-1.) HTML/CSS
-2.) Sinatra assignments:
+* 1.) HTML/CSS
+* 2.) Sinatra assignments:
   * Web Guesser
   * Task Manager (Must be complete for the first day of class)
   
