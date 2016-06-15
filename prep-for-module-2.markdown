@@ -4,6 +4,8 @@
 
 * 1.) HTML/CSS:
   * Self learning of CSS and HTML
+  * Personal Site
+  
 * 2.) Sinatra assignments:
   * Web Guesser
   * Task Manager (Must be complete for the first day of class)
