@@ -26,17 +26,17 @@ Use the HTML and CSS skills you learned to build yourself a personal blog site. 
 
 ### Task #3: Submit Your Personal Blog
 
-Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1603/module_2_prep/personal_site_html_css.yml) by **Thursday, May 5th**.
+Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/personal_site_html_css.yml) by **Thursday, June 23rd**.
 
 ## Sinatra
 
 ### Task #1: [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
 
-Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1603/module_2_prep/web_guesser.yml) by **Tuesday, May 3rd**.
+Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/web_guesser.yml) by **Tuesday, June 21st**.
 
 ### Task #2: [Task Manager](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/task_manager.markdown)
 
-The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1602/module_2_prep/task_manager.yml) by **Saturday, May 7th. You will need to have this project finished before you can attend any class in module 2.**
+The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/task_manager.yml) by **Saturday, June 25th. __You will need to have this project finished before you can attend any class in module 2__.**
 
 ## Get Module 2 Tools
 
@@ -58,6 +58,7 @@ brew install postgres
 ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
 launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
 ```
+[want to know a little more?](http://www.fyquah.me/setup-postgresql-on-os-x)
 
 These last 2 lines will set up a special Daemon init file so that your operating
 system will start postgres automatically whenever you log in.
@@ -74,6 +75,6 @@ system will start postgres automatically whenever you log in.
 
 ## Submissions: 
 
-* [Tuesday, May 3rd - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1603/module_2_prep/web_guesser.yml)
-* [Thursday, May 5th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1603/module_2_prep/personal_site_html_css.yml)
-* [Saturday, May 7th - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1603/module_2_prep/task_manager.yml)
+* [Tuesday, June 21st - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/web_guesser.yml)
+* [Thursday, June 23rd - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/personal_site_html_css.yml)
+* [Saturday, June 25th - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/task_manager.yml)
