@@ -2,7 +2,11 @@
 
 ## Required Assignments
 
-The HTML/CSS and Sinatra assignments listed below are required for admission to Module 2. 
+1.) HTML/CSS
+2.) Sinatra assignments:
+  * Web Guesser
+  * Task Manager (Must be complete for the first day of class)
+  
 
 ## HTML/CSS 
 
