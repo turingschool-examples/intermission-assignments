@@ -14,6 +14,8 @@ Unless you have **significant** experience with HTML and CSS, choose one of thes
 
 2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
 
+3) [Code Academy's Css Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours. 
+
 ### Task #2: Build a Personal Blog
 
 Use the HTML and CSS skills you learned to build yourself a personal blog site. Choose your level of challenge: Mild, Medium, or Spicy. 
