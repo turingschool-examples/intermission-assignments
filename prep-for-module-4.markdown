@@ -63,7 +63,6 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 ### Optional
 * **Read**: [Chapter 17: Objects and Inheritance (Speaking JavaScript)](http://speakingjs.com/es5/ch17.html)
-* **Read**: [Using Arel to Compose SQL Queries][arel] by Sean Griffin
 * **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
   * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
@@ -81,7 +80,6 @@ Here are are a few more "philosophical" materials to hopefully help us contempla
 [tbruby]: https://github.com/thoughtbot/guides/tree/master/style/ruby
 [airbnbjs]: https://github.com/airbnb/javascript
 [hound]: http://robots.thoughtbot.com/introducing-hound
-[arel]: http://robots.thoughtbot.com/using-arel-to-compose-sql-queries
 [tomdale]: http://shoptalkshow.com/episodes/147-tom-dale/
 [speakingjs]: http://speakingjs.com/es5/
 [allonge]: https://leanpub.com/javascript-allonge/read
