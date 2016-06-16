@@ -40,7 +40,7 @@ You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundament
 
 ### Exercisms (10 points)
 
-Compare ***3*** completed [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got
+Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got.
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 
