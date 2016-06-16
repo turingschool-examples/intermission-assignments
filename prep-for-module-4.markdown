@@ -48,20 +48,21 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 [exer]: http://exercism.io/
 
-## Study
-
+### (Read) Sandi Metz' Rules For Developers
 * **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes) **(5 points)**
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-* **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) **(5 points)**
+
+### (Read) Introduction to JavaScript Topics
+* **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//) **(5 points)**
   * please read the following chapters: 
-    * [Chapter 3: The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
-    * [Chapter 15: Functions](http://speakingjs.com/es5/ch15.html)
-    * [Chapter 16: Variables: Scopes, Environments, and Closures](http://speakingjs.com/es5/ch16.html)
-    * [Chapter 17: Objects and Inheritance](http://speakingjs.com/es5/ch17.html)
+    * [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
+    * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
+    * [Chapter 5 (Eloquent): Higher Order Functions](http://eloquentjavascript.net//05_higher_order.html)
+    * [Chapter 6: (Eloquent) The Secret Life of Objects](http://eloquentjavascript.net//06_object.html)
 
 
 ### Optional
-
+* **Read**: [Chapter 17: Objects and Inheritance (Speaking JavaScript)](http://speakingjs.com/es5/ch17.html)
 * **Read**: [Using Arel to Compose SQL Queries][arel] by Sean Griffin
 * **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
