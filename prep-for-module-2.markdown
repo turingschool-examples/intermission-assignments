@@ -47,6 +47,23 @@ Build out base functionality and add at least one of the extensions. Approximate
 
 The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1605/module_2_prep/task_manager.yml) by **Saturday, June 25th. __You will need to have this project finished before you can attend any class in module 2__.**
 
+
+A lot of what we do as developers is storing, manipulating, and tracking data. In order to do that we have many differnt data stores available to us. Arrays, hashes, CSVs, databases etc. What we do in task manager is use YAML, a ruby data store, to track our data. We use YAML in place of a more tradition database, like Postgresql, at the beginning of this module so we can visualy see our data as we input it and manipulate it. Basically it's a good starting point. These are YAMLs self-proclaimed goals:
+
+```
+The design goals for YAML are, in decreasing priority:
+
+YAML is easily readable by humans.
+YAML data is portable between programming languages.
+YAML matches the native data structures of agile languages.
+YAML has a consistent model to support generic tools.
+YAML supports one-pass processing.
+YAML is expressive and extensible.
+YAML is easy to implement and use.
+```
+
+I bring this up because YAML is often a source of frustration for mod2 students, and it's nothing to be frustrated about. It's just a place to store data. We interact with YAML data with hash like syntax. [Here is a good link to learn more about YAML.](http://davesrubyrails.blogspot.com/2013/03/yaml-basics-and-some-simple-examples.html)
+
 ## Get Module 2 Tools
 
 ### Task #1: Install Rails 
