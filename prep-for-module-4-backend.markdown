@@ -10,19 +10,11 @@ During Module 4 we'll be focusing on a few topics:
 The assignments below are intended to help give us some context for working through these topics, so as
 you read/work through them, consider how they conform to or conflict with what you've seen so far about Ruby and Javascript.
 
-### Submitting your Work
-
-Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. 
-
-The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. 
-
-**Non-optional assignments will be due for points** We'll also have large and small group discussions on the monday you return.
-
-[ghissues]: https://github.com/turingschool/intermission-assignments/labels/1603
-
 ## Required Work
 
 ### NodeSchool.io (20 points)
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/82)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
@@ -36,7 +28,15 @@ Please work through _at least two_ of the following courses:
 
 ### jQuery Fundamentals (20 points)
 
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/83)
+
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
+
+### The Nature of JavaScript Reading (10 points)
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/84)
+
+Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
 
 ## Optional But Suggested
 
@@ -50,7 +50,6 @@ You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundament
 ### (Read) Introduction to JavaScript Topics
 * **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//)
   * please read the following chapters: 
-    * [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
     * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
     * [Chapter 5 (Eloquent): Higher Order Functions](http://eloquentjavascript.net//05_higher_order.html)
     * [Chapter 6: (Eloquent) The Secret Life of Objects](http://eloquentjavascript.net//06_object.html)
