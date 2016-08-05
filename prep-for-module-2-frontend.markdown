@@ -15,3 +15,4 @@
 ## Do
 
 - Complete the [Learn DevTools](https://www.codeschool.com/courses/discover-devtools) course.
+- Re-do Idea Box (or Game Time)
