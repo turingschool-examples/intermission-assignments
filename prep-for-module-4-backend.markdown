@@ -10,19 +10,11 @@ During Module 4 we'll be focusing on a few topics:
 The assignments below are intended to help give us some context for working through these topics, so as
 you read/work through them, consider how they conform to or conflict with what you've seen so far about Ruby and Javascript.
 
-### Submitting your Work
+## Required Work
 
-Each of the assignments has (or will have) a Github issue associated with it [here][ghissues]. 
+### NodeSchool.io (20 points)
 
-The reading/watching assignments don't have "deliverables" per-se, but as you go through them please take notes and report your thoughts back to the associated github issue. 
-
-**Non-optional assignments will be due for points** We'll also have large and small group discussions on the monday you return.
-
-[ghissues]: https://github.com/turingschool/intermission-assignments/labels/1602
-
-## Code
-
-### NodeSchool.io (10 points)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/82)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
@@ -34,11 +26,39 @@ Please work through _at least two_ of the following courses:
 * [lololodash](https://github.com/mdunisch/lololodash)
 * [ExpressWorks](https://github.com/azat-co/expressworks)
 
-### jQuery Fundamentals (10 points)
+### jQuery Fundamentals (20 points)
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/83)
 
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
-### Exercisms (10 points)
+### The Nature of JavaScript Reading (10 points)
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/84)
+
+Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
+
+## Optional But Suggested
+
+### CSS Fundamentals
+
+* Work Through This [Introductory Static Site](https://github.com/turingschool-examples/introductory-static-site)
+* Work Through These [CSS Layout Challenges](https://github.com/turingschool-examples/css-layout-challenges)
+
+### JavaScript
+
+### (Read) Introduction to JavaScript Topics
+* **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//)
+  * please read the following chapters: 
+    * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
+    * [Chapter 5 (Eloquent): Higher Order Functions](http://eloquentjavascript.net//05_higher_order.html)
+    * [Chapter 6: (Eloquent) The Secret Life of Objects](http://eloquentjavascript.net//06_object.html)
+
+* **Read**: [Chapter 17: Objects and Inheritance (Speaking JavaScript)](http://speakingjs.com/es5/ch17.html)
+
+* **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+### Exercisms
 
 Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got.
 
@@ -48,22 +68,11 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 [exer]: http://exercism.io/
 
-### (Read) Sandi Metz' Rules For Developers
-* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes) **(5 points)**
+## Scaling Up as a Developer
+
+* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
   * Which of Sandi's rules do you feel like might be the hardest to follow—why?
 
-### (Read) Introduction to JavaScript Topics
-* **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//) **(5 points)**
-  * please read the following chapters: 
-    * [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
-    * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
-    * [Chapter 5 (Eloquent): Higher Order Functions](http://eloquentjavascript.net//05_higher_order.html)
-    * [Chapter 6: (Eloquent) The Secret Life of Objects](http://eloquentjavascript.net//06_object.html)
-
-
-### Optional
-* **Read**: [Chapter 17: Objects and Inheritance (Speaking JavaScript)](http://speakingjs.com/es5/ch17.html)
-* **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
   * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
 
