@@ -2,9 +2,14 @@
 
 ## Ruby on Rails
 
-### Required
+### Most Important
 
-#### Do
+Entering Module 3 with a solid understanding of ActiveRecord and SQL is key to getting the module off to a good start. Make sure you are able to write and understand queries that involve multiple `JOIN` statements and that combine math functions.
+
+1. Complete and understand the [Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) challenges.
+1. Complete and understand [ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+
+### Next Most Important
 
 Rewrite your Little Shop `routes.rb`:
 
@@ -12,19 +17,9 @@ Module 3 requires you to know URLs, paths and HTTP verbs inside and out. Rewrite
 
 If you do not own the repo for your project, fork it, and rewrite the routes file individually.
 
-#### Read
+NOTE: This is not because this way is better, but it's extremely important to understand what every line of your routes file is doing.
 
-[How We Test Rails Applications](http://robots.thoughtbot.com/how-we-test-rails-applications)
-
-In every community, there are various opinions on how to do the same thing. Learn how Thoughtbot likes to test their applications in this brief guide.
-
-#### Listen
-
-[DHH on Ruby Rogues](http://devchat.tv/ruby-rogues/056-rr-david-heinemeier-hansson)
-
-Tools and frameworks are made by people, and they reflect the perspectives and opinions of their makers. In this podcast episode, learn what DHH —the creator or Rails— thinks about programming, Rails and the future of web development.
-
-### Optional
+#### Optional
 
 [Practical Object-Oriented Design in Ruby](http://www.amazon.com/gp/product/0321721330)
 
@@ -32,9 +27,7 @@ Sandi Metz's book permanently changed the way I program. In this book, she teach
 
 ## JavaScript
 
-### Required
-
-#### Do
+### JavaScript Basics (Optional)
 
 [Codecademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
 
@@ -47,11 +40,11 @@ Focus primarily on the sections for:
 * Data Structures
 * Objects I and Objects II
 
-### Optional
+### jQuery Basics (Optional)
 
 [jQuery](https://www.codeschool.com/courses/try-jquery)
 
-Jquery is a popular javascript library for manipulating the content of web pages. Dip your toes in with this introductory Jquery class:
+Jquery is a popular javascript library for manipulating the content of web pages. Dip your toes in with this introductory Jquery class.
 
 ## Front-End Development
 
