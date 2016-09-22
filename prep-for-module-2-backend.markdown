@@ -5,13 +5,13 @@
 * 1.) HTML/CSS:
   * Self learning of CSS and HTML
   * Personal Site
-  
+
 * 2.) Sinatra assignments:
   * Web Guesser
   * Task Manager (Must be complete for the first day of class)
-  
 
-## HTML/CSS 
+
+## HTML/CSS
 
 ### Task #1: Learn HTML and CSS Basics
 
@@ -21,17 +21,17 @@ Unless you have **significant** experience with HTML and CSS, choose one of thes
 
 2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
 
-3) [Code Academy's HTML/CSS Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours. 
+3) [Code Academy's HTML/CSS Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours.
 
 ### Task #2: Build a Personal Blog
 
-Use the HTML and CSS skills you learned to build yourself a personal blog site. Choose your level of challenge: Mild, Medium, or Spicy. 
+Use the HTML and CSS skills you learned to build yourself a personal blog site. Choose your level of challenge: Mild, Medium, or Spicy.
 
-1) Mild: Build a personal site with a blog portion using plain HTML and CSS. At minimum, your site should contain an `index.html`, `styles.css`, and a first blog post: `insert-first-post-title-here.html`. Push your project to Github Pages using the same instructions as for one using Jekyll [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown). 
+1) Mild: Build a personal site with a blog portion using plain HTML and CSS. At minimum, your site should contain an `index.html`, `styles.css`, and a first blog post: `insert-first-post-title-here.html`. Push your project to Github Pages using the same instructions as for one using Jekyll [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown).
 
 2) Medium: Clone [this Jekyll starter repo](https://github.com/rwarbelow/yourusername.github.io). Remove the `.git` folder (`rm -rf .git`) and rename the repository so that your own github username replaces `yourusername` but keep `.github.io` on the end. Check out the README for instructions on how to view and modify your site. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown). Reference the [Jekyll Docs](http://jekyllrb.com/docs/home/) for extra help.
 
-3) Spicy: Use the [Jekyll Docs](http://jekyllrb.com/docs/home/) to set up your own blog. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown). 
+3) Spicy: Use the [Jekyll Docs](http://jekyllrb.com/docs/home/) to set up your own blog. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown).
 
 ### Task #3: Submit Your Personal Blog
 
@@ -66,7 +66,7 @@ I bring this up because YAML is often a source of frustration for mod2 students,
 
 ## Get Module 2 Tools
 
-### Task #1: Install Rails 
+### Task #1: Install Rails
 
 If you don't already have it: `gem install rails`.
 
@@ -102,7 +102,7 @@ system will start postgres automatically whenever you log in.
 * [Quick 15 minute video introduction to HTTP basics](https://www.youtube.com/watch?v=18XDokfwIDo)
 * [What is HTML anyway? MDN's basics of HTML...  MDN==Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics)
 
-## Submissions: 
+## Submissions:
 
 * [Tuesday, September 27th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/web_guesser.yml)
 * [Thursday, September 29th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/personal_site_html_css.yml)
