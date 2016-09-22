@@ -36,13 +36,13 @@ Use the HTML and CSS skills you learned to build yourself a personal blog site. 
 
 ### Task #3: Submit Your Personal Blog
 
-Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/personal_site_html_css.yml) by **Thursday, September 29th**.
+Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/personal_site_html_css.yml) by **Thursday, September 29th**.
 
 ## SQL & Sinatra
 
 ### Task #1: [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
 
-Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/web_guesser.yml) by **Tuesday, September 27th**.
+Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/web_guesser.yml) by **Tuesday, September 27th**.
 
 ### Task #2: [Jumpstart Lab SQL Tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
 
@@ -50,7 +50,7 @@ Complete the Jumstart Lab SQL Tutorial. **Do not complete the Sequel tutorial li
 
 ### Task #3: [Task Manager](https://github.com/s-espinosa/task_manager_redux)
 
-The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/task_manager.yml) by **Saturday, October 1st. __You will need to have this project finished before you can attend any class in module 2__.**
+The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/task_manager.yml) by **Saturday, October 1st. __You will need to have this project finished before you can attend any class in module 2__.**
 
 ## Get Module 2 Tools
 
