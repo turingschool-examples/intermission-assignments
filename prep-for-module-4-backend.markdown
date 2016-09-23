@@ -14,7 +14,7 @@ you read/work through them, consider how they conform to or conflict with what y
 
 ### NodeSchool.io (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/82)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/88)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
@@ -28,13 +28,13 @@ Please work through _at least two_ of the following courses:
 
 ### jQuery Fundamentals (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/83)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/87)
 
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
 ### The Nature of JavaScript Reading (10 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/84)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/86)
 
 Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
 
