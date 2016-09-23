@@ -92,6 +92,6 @@ system will start postgres automatically whenever you log in.
 
 ## Submissions:
 
-* [Tuesday, September 27th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/web_guesser.yml)
-* [Thursday, September 29th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/personal_site_html_css.yml)
-* [Saturday, October 1st - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/module_2_prep/task_manager.yml)
+* [Tuesday, September 27th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/web_guesser.yml)
+* [Thursday, September 29th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/personal_site_html_css.yml)
+* [Saturday, October 1st - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/task_manager.yml)
