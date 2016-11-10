@@ -3,79 +3,86 @@
 ## Required Assignments
 
 * 1.) HTML/CSS:
-  * Self learning of CSS and HTML
-  * Personal Site
+    * Self learning of CSS and HTML
+    * Personal Site
+    * Bootstrap
+    * Submit HTML & CSS Work
 
 * 2.) SQL & Sinatra assignments:
-  * Web Guesser
-  * Jumpstart Lab SQL Tutorial
-  * Task Manager (Must be complete for the first day of class)
+    * Web Guesser
+    * Jumpstart Lab SQL Tutorial
+    * Task Manager (Must be complete for the first day of class)
+    * Submit SQL & Sinatra Work
 
+* 3.) Get Module 2 Tools
+    * Rails
+    * Postgres
 
 ## HTML/CSS
 
 ### Task #1: Learn HTML and CSS Basics
 
-Unless you have **significant** experience with HTML and CSS, choose one of these to complete:
+  Unless you have **significant** experience with HTML and CSS, choose one of these to complete:
 
-1) [Shay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/). Written tutorial. Super informative and comprehensive. Not obnoxious. Lots of hours.
+  1) [Shay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/). Written tutorial. Super informative and comprehensive. Not obnoxious. Lots of hours.
 
-2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
+  2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
 
-3) [Code Academy's HTML/CSS Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours.
+  3) [Code Academy's HTML/CSS Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours.
 
 ### Task #2: Build a Personal Blog
 
-Use the HTML and CSS skills you learned to build yourself a personal blog site. Choose your level of challenge: Mild, Medium, or Spicy.
+  Use the HTML and CSS skills you learned to build yourself a personal blog site.
 
-1) Mild: Build a personal site with a blog portion using plain HTML and CSS. At minimum, your site should contain an `index.html`, `styles.css`, and a first blog post: `insert-first-post-title-here.html`. Push your project to Github Pages using the same instructions as for one using Jekyll [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown).
+  Build a personal site with a blog portion using plain HTML and CSS. At minimum, your site should contain an `index.html`, `styles.css`, and a first blog post about your Mod 1 experience and your favorite technical concept: `insert-first-post-title-here.html`. Push your project to Github Pages using [these instructions as for one using Jekyll](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown) (even though you're not using Jekyll).
 
-2) Medium: Clone [this Jekyll starter repo](https://github.com/rwarbelow/yourusername.github.io). Remove the `.git` folder (`rm -rf .git`) and rename the repository so that your own github username replaces `yourusername` but keep `.github.io` on the end. Check out the README for instructions on how to view and modify your site. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown). Reference the [Jekyll Docs](http://jekyllrb.com/docs/home/) for extra help.
+### Task #3: Experiment with Bootstrap
 
-3) Spicy: Use the [Jekyll Docs](http://jekyllrb.com/docs/home/) to set up your own blog. Push your project to Github Pages using [these instructions](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown).
+  Review this [Bootstrap lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/introduction_to_bootstrap_v2.md) and complete the workshop.
 
-### Task #3: Submit Your Personal Blog
 
-Add a link to your personal webpage repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/personal_site_html_css.yml) by **Thursday, September 29th**.
+### Task #4: Submit Your HTML/CSS Work
+
+  Add links to your personal webpage, personal webpage repository, and your Bootstrap repositories [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/personal_site_html_css.md) by **Saturday, November 19**.
 
 ## SQL & Sinatra
 
 ### Task #1: [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
 
-Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/web_guesser.yml) by **Tuesday, September 27th**.
+  Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/web_guesser.md) by **Thursday, November 17**.
 
 ### Task #2: [Jumpstart Lab SQL Tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
 
-Complete the Jumstart Lab SQL Tutorial. **Do not complete the Sequel tutorial linked at the bottom of the Jumpstart Lab page.**
+  Complete the Jumstart Lab SQL Tutorial. **Do not complete the Sequel tutorial linked at the bottom of the Jumpstart Lab page.**
 
 ### Task #3: [Task Manager](https://github.com/s-espinosa/task_manager_redux)
 
-The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/task_manager.yml) by **Saturday, October 1st. __You will need to have this project finished before you can attend any class in module 2__.**
+  The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/task_manager.md) by **Monday, November 21st. __You will need to have this project finished before you can attend any class in module 2__.**
 
 ## Get Module 2 Tools
 
 ### Task #1: Install Rails
 
-If you don't already have it: `gem install rails`.
+  If you don't already have it: `gem install rails`.
 
 ### Task #2: Download Postgres
 
-Download the [Postgres app](http://postgresapp.com/).
+  Download the [Postgres app](http://postgresapp.com/).
 
-__OR: Use Homebrew to install Postgres:__
+  __OR: Use Homebrew to install Postgres:__
 
-From your terminal, run:
+  From your terminal, run:
 
-```
-brew update
-brew install postgres
-ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
-launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
-```
-[want to know a little more?](http://www.fyquah.me/setup-postgresql-on-os-x)
+  ```
+  brew update
+  brew install postgres
+  ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+  launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+  ```
+  [want to know a little more?](http://www.fyquah.me/setup-postgresql-on-os-x)
 
-These last 2 lines will set up a special Daemon init file so that your operating
-system will start postgres automatically whenever you log in.
+  These last 2 lines will set up a special Daemon init file so that your operating
+  system will start postgres automatically whenever you log in.
 
 ## Optional Additional Prep Work
 
@@ -92,6 +99,6 @@ system will start postgres automatically whenever you log in.
 
 ## Submissions:
 
-* [Tuesday, September 27th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/web_guesser.yml)
-* [Thursday, September 29th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/personal_site_html_css.yml)
-* [Saturday, October 1st - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/2module/intermission_work/task_manager.yml)
+* [Thursday, November 17th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/web_guesser.md)
+* [Saturday, November 19th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/personal_site_html_css.md)
+* [Monday, November 21st - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/task_manager.md)
