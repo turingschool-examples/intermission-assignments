@@ -38,7 +38,7 @@
 
 ### Task #3: Experiment with Bootstrap
 
-  Review this [Bootstrap lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/introduction_to_bootstrap_v2.md) and complete the workshop.
+  Complete this [Bootstrap tutorial](https://github.com/s-espinosa/bootstrap_tutorial).
 
 
 ### Task #4: Submit Your HTML/CSS Work
