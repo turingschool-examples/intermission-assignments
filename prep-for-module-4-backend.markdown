@@ -49,6 +49,8 @@ Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.
 
 ### Exercisms
 
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/95)
+
 Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a comment of what you saw when comparing the answer to five other answers that other folks got.
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
