@@ -14,7 +14,7 @@ you read/work through them, consider how they conform to or conflict with what y
 
 ### NodeSchool.io (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/88)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/91)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
@@ -26,28 +26,17 @@ Please work through _at least two_ of the following courses:
 * [lololodash](https://github.com/mdunisch/lololodash)
 * [ExpressWorks](https://github.com/azat-co/expressworks)
 
-### jQuery Fundamentals (20 points)
-
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/87)
-
-You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
-
 ### The Nature of JavaScript Reading (10 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/86)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/92)
 
 Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
 
-## Optional But Suggested
 
-### CSS Fundamentals
+### Introduction to JavaScript Topics Reading (20 points)
 
-* Work Through This [Introductory Static Site](https://github.com/turingschool-examples/introductory-static-site)
-* Work Through These [CSS Layout Challenges](https://github.com/turingschool-examples/css-layout-challenges)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
 
-### JavaScript
-
-### (Read) Introduction to JavaScript Topics
 * **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//)
   * please read the following chapters: 
     * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
@@ -60,13 +49,29 @@ Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.
 
 ### Exercisms
 
-Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got.
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/95)
+
+Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a comment of what you saw when comparing the answer to five other answers that other folks got.
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 
 [Here is an example of what we expect.](https://gist.github.com/tgraham777/9f284f096ba9da89a159)
 
 [exer]: http://exercism.io/
+
+
+## Optional But Suggested
+
+### jQuery Fundamentals
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
+
+You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
+
+### CSS Fundamentals
+
+* Work Through This [Introductory Static Site](https://github.com/turingschool-examples/introductory-static-site)
+* Work Through These [CSS Layout Challenges](https://github.com/turingschool-examples/css-layout-challenges)
 
 ## Scaling Up as a Developer
 

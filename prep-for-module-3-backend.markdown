@@ -6,7 +6,8 @@
 
 Entering Module 3 with a solid understanding of ActiveRecord and SQL is key to getting the module off to a good start. Make sure you are able to write and understand queries that involve multiple `JOIN` statements and that combine math functions.
 
-1. Complete and understand the [Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) challenges.
+1. Complete and understand the [Intermediate SQL I](https://gist.github.com/case-eee/5affe7fd452336cef2c88121e8d49f5d) challenges.
+1. Complete and understand the [Intermediate SQL II](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) challenges.
 1. Complete and understand [ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
 
 ### Next Most Important
@@ -15,9 +16,11 @@ Rewrite your Little Shop `routes.rb`:
 
 Module 3 requires you to know URLs, paths and HTTP verbs inside and out. Rewrite the routes file for your Little Shop to use only methods that map directly to HTTP verbs: `get`, `post`, `put`, `patch` and `delete`. You will probably need to add `to:` and `as:` parameters to make sure your apps continue to work, and tests continue to pass.
 
+If you wrote your routes that way already, replace them using `resources`.
+
 If you do not own the repo for your project, fork it, and rewrite the routes file individually.
 
-NOTE: This is not because this way is better, but it's extremely important to understand what every line of your routes file is doing.
+NOTE: This is not because one way is better, but it's extremely important to understand what every line of your routes file is doing. Rails Engine demands a solid understanding of Rails routing.
 
 #### Optional
 
