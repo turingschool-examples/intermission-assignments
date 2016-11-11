@@ -5,6 +5,7 @@
 ### Most Important
 
 Entering Module 3 with a solid understanding of ActiveRecord and SQL is key to getting the module off to a good start. Make sure you are able to write and understand queries that involve multiple `JOIN` statements and that combine math functions.
+
 1. Complete and understand the [Intermediate SQL I](https://gist.github.com/case-eee/5affe7fd452336cef2c88121e8d49f5d) challenges.
 1. Complete and understand the [Intermediate SQL II](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) challenges.
 1. Complete and understand [ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
