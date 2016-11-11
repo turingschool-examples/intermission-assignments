@@ -26,21 +26,17 @@ Please work through _at least two_ of the following courses:
 * [lololodash](https://github.com/mdunisch/lololodash)
 * [ExpressWorks](https://github.com/azat-co/expressworks)
 
-### jQuery Fundamentals (20 points)
-
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
-
-You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
-
 ### The Nature of JavaScript Reading (10 points)
 
 [Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/92)
 
 Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
 
-### JavaScript
 
-### (Read) Introduction to JavaScript Topics
+### Introduction to JavaScript Topics Reading (20 points)
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
+
 * **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//)
   * please read the following chapters: 
     * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
@@ -53,7 +49,7 @@ Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.
 
 ### Exercisms
 
-Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a gist of what you saw when comparing the answer to five other answers that other folks got.
+Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a comment of what you saw when comparing the answer to five other answers that other folks got.
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 
@@ -63,6 +59,12 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 
 ## Optional But Suggested
+
+### jQuery Fundamentals
+
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
+
+You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
 ### CSS Fundamentals
 
