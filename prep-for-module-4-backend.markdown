@@ -14,7 +14,7 @@ you read/work through them, consider how they conform to or conflict with what y
 
 ### NodeSchool.io (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/88)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/91)
 
 This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
 
@@ -28,22 +28,15 @@ Please work through _at least two_ of the following courses:
 
 ### jQuery Fundamentals (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/87)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
 
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
 ### The Nature of JavaScript Reading (10 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/86)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/92)
 
 Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
-
-## Optional But Suggested
-
-### CSS Fundamentals
-
-* Work Through This [Introductory Static Site](https://github.com/turingschool-examples/introductory-static-site)
-* Work Through These [CSS Layout Challenges](https://github.com/turingschool-examples/css-layout-challenges)
 
 ### JavaScript
 
@@ -67,6 +60,14 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 [Here is an example of what we expect.](https://gist.github.com/tgraham777/9f284f096ba9da89a159)
 
 [exer]: http://exercism.io/
+
+
+## Optional But Suggested
+
+### CSS Fundamentals
+
+* Work Through This [Introductory Static Site](https://github.com/turingschool-examples/introductory-static-site)
+* Work Through These [CSS Layout Challenges](https://github.com/turingschool-examples/css-layout-challenges)
 
 ## Scaling Up as a Developer
 
