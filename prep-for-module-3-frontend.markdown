@@ -1,14 +1,19 @@
 ## Required Work
 
+### Redux
+
+* [Wes Bos Redux Tutorial](https://learnredux.com/)
+* [Dan Abramov's Egghead Tutorial](https://egghead.io/courses/getting-started-with-redux)
+
 ### NodeSchool.io (20 points)
 
 [Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/85)
 
-This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
+This week, you'll be working through some courses at [nodeschool.io][ns]. The point of these courses is to get back into exploring resources to write JavaScript differently, now that you have 2 full modules under your belt.
 
 [ns]: http://nodeschool.io
 
-Please work through _all four_ of the following courses:
+Please work through _at least 2_ of the following courses (ideally those you aren't familiar with):
 
 * [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
 * [Lololodash](https://github.com/mdunisch/lololodash)
