@@ -64,8 +64,6 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 ### jQuery Fundamentals
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
-
 You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
 ### CSS Fundamentals
