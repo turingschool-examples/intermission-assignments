@@ -35,7 +35,7 @@ Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.
 
 ### Introduction to JavaScript Topics Reading (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/93)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/94)
 
 * **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//)
   * please read the following chapters: 
