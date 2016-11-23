@@ -7,7 +7,7 @@
 
 ### NodeSchool.io (20 points)
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/85)
+[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/97)
 
 This week, you'll be working through some courses at [nodeschool.io][ns]. The point of these courses is to get back into exploring resources to write JavaScript differently, now that you have 2 full modules under your belt.
 
