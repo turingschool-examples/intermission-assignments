@@ -98,6 +98,8 @@
 
 ## Submissions:
 
+To submit your work, make a Pull Request (PR) to the tuingschool/ruby_submissions repo and the file listed below. If you need a refresher on making a PR, you can check out [these docs](https://help.github.com/articles/creating-a-pull-request/)
+
 * [Thursday, January 19th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/web_guesser.md)
 * [Saturday, January 21st - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/personal_site_html_css.md)
 * [Monday, January 23rd - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/task_manager.md)
