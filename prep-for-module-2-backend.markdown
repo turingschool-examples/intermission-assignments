@@ -2,18 +2,17 @@
 
 ## Required Assignments
 
-* 1.) HTML/CSS:
+* 1.) [HTML/CSS: Due: Saturday, January 21](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/personal_site_html_css.md)
     * Self learning of CSS and HTML
     * Personal Site
     * Bootstrap
     * Submit HTML & CSS Work
 
-* 2.) SQL & Sinatra assignments:
+* 2.) [SQL & Sinatra assignments: Thursday, January 19](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/web_guesser.md) 
     * Web Guesser
     * Jumpstart Lab SQL Tutorial
-    * Task Manager (Must be complete for the first day of class)
     * Submit SQL & Sinatra Work
-
+    * [Task Manager: Due by Monday, January 23rd. You will need to have this project finished before you can attend any class in module 2] (https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/task_manager.md) 
 * 3.) Get Module 2 Tools
     * Rails
     * Postgres
@@ -43,13 +42,13 @@
 
 ### Task #4: Submit Your HTML/CSS Work
 
-  Add links to your personal webpage, personal webpage repository, and your Bootstrap repositories [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/personal_site_html_css.md) by **Saturday, November 19**.
+  Add links to your personal webpage, personal webpage repository, and your Bootstrap repositories [here](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/personal_site_html_css.md) by **Saturday, January 21**.
 
 ## SQL & Sinatra
 
 ### Task #1: [Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
 
-  Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/web_guesser.md) by **Thursday, November 17**.
+  Build out base functionality and add at least one of the extensions. Approximately 1-3 hours. Add a link to your repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/web_guesser.md) by **Thursday, January 19**.
 
 ### Task #2: [Jumpstart Lab SQL Tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
 
@@ -57,7 +56,7 @@
 
 ### Task #3: [Task Manager](https://github.com/s-espinosa/task_manager_redux)
 
-  The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/task_manager.md) by **Monday, November 21st. __You will need to have this project finished before you can attend any class in module 2__.**
+  The entire tutorial will take approximately 1-3 hours. Build it once using the tutorial (*TYPE the code snippets -- do not copy!*), then try building it again with less reference to the tutorial. Add a link to your task manager repository [here](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/task_manager.md) by **Monday, January 23rd. __You will need to have this project finished before you can attend any class in module 2__.**
 
 ## Get Module 2 Tools
 
@@ -99,6 +98,6 @@
 
 ## Submissions:
 
-* [Thursday, November 17th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/web_guesser.md)
-* [Saturday, November 19th - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/personal_site_html_css.md)
-* [Monday, November 21st - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/2module/intermission_work/task_manager.md)
+* [Thursday, January 19th - Web Guesser](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/web_guesser.md)
+* [Saturday, January 21st - Personal Site](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/personal_site_html_css.md)
+* [Monday, January 23rd - Task Manager](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/2module/intermission_work/task_manager.md)
