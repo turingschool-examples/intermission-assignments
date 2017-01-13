@@ -1,85 +1,68 @@
 # Module 4 Intermission Assignments
 
-During Module 4 we'll be focusing on a few topics:
+To prepare for Module 4 we need to develop your fundamental understandings of JavaScript.
 
-* Expanding your existing Javascript knowledge to build more sophisticated UI-driven applications
-* Expanding your Ruby and Rails knowledge to build web applications using more sophisticated
-  architectural patterns
-* Exploring new tools in both the Javascript and Ruby ecosystems that help us achieve these goals
+## Submission
 
-The assignments below are intended to help give us some context for working through these topics, so as
-you read/work through them, consider how they conform to or conflict with what you've seen so far about Ruby and Javascript.
+* You are to complete this work and submit your results by 9AM on the first day of the module in order to join the class
+* Complete the *Expected Work* below and *One Extension*
+* You should [fork this Gist](...) and use it to record your work submission
+* Let your instructional team know as soon as possible if you have questions/problems completing the assignment
 
 ## Expected Work
-
-### NodeSchool.io
-
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/91)
-
-This week, you'll be working through some workshopper courses at [nodeschool.io][ns].
-
-[ns]: http://nodeschool.io
-
-Please work through _at least two_ of the following courses:
-
-* [javascripting](https://github.com/sethvincent/javascripting)
-* [lololodash](https://github.com/mdunisch/lololodash)
-* [ExpressWorks](https://github.com/azat-co/expressworks)
-
-### The Nature of JavaScript Reading
-
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/92)
-
-Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
-
 
 ### Introduction to JavaScript Topics Reading
 
 [Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/94)
 
-* **Read**: Selected Chapters From: [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//)
-  * please read the following chapters: 
-    * [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
-    * [Chapter 5 (Eloquent): Higher Order Functions](http://eloquentjavascript.net//05_higher_order.html)
-    * [Chapter 6: (Eloquent) The Secret Life of Objects](http://eloquentjavascript.net//06_object.html)
+**Read** the following selections from [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//):
 
-* **Read**: [Chapter 17: Objects and Inheritance (Speaking JavaScript)](http://speakingjs.com/es5/ch17.html)
+* [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
+* [Chapter 3 (Eloquent): Functions](http://eloquentjavascript.net//03_functions.html)
+* [Chapter 5 (Eloquent): Higher Order Functions](http://eloquentjavascript.net//05_higher_order.html)
+* [Chapter 6: (Eloquent) The Secret Life of Objects](http://eloquentjavascript.net//06_object.html)
+* [Chapter 17: Objects and Inheritance (Speaking JavaScript)](http://speakingjs.com/es5/ch17.html)
 
-* **Read**: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+Then finish it all with [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/).
 
 ### Exercisms
-
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/95)
 
 Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a comment of what you saw when comparing the answer to five other answers that other folks got.
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 
-[Here is an example of what we expect.](https://gist.github.com/tgraham777/9f284f096ba9da89a159)
-
 [exer]: http://exercism.io/
 
+## Extensions
 
-## Optional But Suggested
+Then select and complete *one* of the sections below.
+
+### NodeSchool.io
+
+Work through _at least two_ of the following courses:
+
+* [javascripting](https://github.com/sethvincent/javascripting)
+* [lololodash](https://github.com/mdunisch/lololodash)
+* [ExpressWorks](https://github.com/azat-co/expressworks)
 
 ### jQuery Fundamentals
 
-You'll also be working through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
+Work through Bocoup's [jQuery Fundamentals](http://jqfundamentals.com).
 
 ### CSS Fundamentals
 
 * Work Through This [Introductory Static Site](https://github.com/turingschool-examples/introductory-static-site)
 * Work Through These [CSS Layout Challenges](https://github.com/turingschool-examples/css-layout-challenges)
 
-## Scaling Up as a Developer
-
-* **Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
-  * Which of Sandi's rules do you feel like might be the hardest to follow—why?
-
-* **Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
-  * Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
+### Scaling Up as a Developer
 
 As we move into the final module of Turing, we're getting fairly competent at producing useful software. But rather than being the end of the journey, this really just opens the door to even deeper rabbit holes—now that I can get something done, what other ways might there be to accomplish the same thing? The same observable effects could be accomplished via numerous different combinations of code. What are the underlying opinions and ideas embodied by each choice?
+
+**Read**: [Sandi Metz' Rules For Developers][sandi] (10 minutes)
+* Which of Sandi's rules do you feel like might be the hardest to follow—why?
+
+**Listen**: [Shop Talk: Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (1.5 hours)
+* Do you agree with Tom? What parts of his argument are compelling? What parts do you disagree with?
 
 Here are are a few more "philosophical" materials to hopefully help us contemplate this side of the issue:
 
