@@ -15,6 +15,8 @@
 ## Do
 
 - Complete the [Learn DevTools](https://www.codeschool.com/courses/discover-devtools) course.
-- Re-do Idea Box (or Game Time)
+- Refactor Idea Box (or Game Time)
+  - get rid of long if else statements 
+  - DRY up your code 
 - [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/)
   - Do `Setting Up Babel`, `Using Let Variables`, `Using Destructuring`, `Using Arrow Functions`, & `Using Classes`
