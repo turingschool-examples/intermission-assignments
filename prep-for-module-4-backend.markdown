@@ -10,9 +10,9 @@ During Module 4 we'll be focusing on a few topics:
 The assignments below are intended to help give us some context for working through these topics, so as
 you read/work through them, consider how they conform to or conflict with what you've seen so far about Ruby and Javascript.
 
-## Required Work
+## Expected Work
 
-### NodeSchool.io (20 points)
+### NodeSchool.io
 
 [Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/91)
 
@@ -26,14 +26,14 @@ Please work through _at least two_ of the following courses:
 * [lololodash](https://github.com/mdunisch/lololodash)
 * [ExpressWorks](https://github.com/azat-co/expressworks)
 
-### The Nature of JavaScript Reading (10 points)
+### The Nature of JavaScript Reading
 
 [Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/92)
 
 Read through [Chapter 3 (Speaking): The Nature of JavaScript](http://speakingjs.com/es5/ch03.html)
 
 
-### Introduction to JavaScript Topics Reading (20 points)
+### Introduction to JavaScript Topics Reading
 
 [Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/94)
 
