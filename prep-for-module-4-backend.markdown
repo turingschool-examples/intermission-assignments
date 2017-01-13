@@ -27,7 +27,8 @@ Then finish it all with [JavaScript Garden](http://bonsaiden.github.io/JavaScrip
 
 ### Exercisms
 
-Compare ***3*** of your own completed [exercism.io][exer] exercises in JavaScript, writing a comment of what you saw when comparing the answer to five other answers that other folks got.
+* Complete *5* of your own completed [exercism.io][exer] exercises in JavaScript
+* Leave meaningful feedback on *5* solutions submitted by your classmates
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 
