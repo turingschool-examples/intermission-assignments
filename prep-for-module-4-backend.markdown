@@ -28,11 +28,13 @@ Then finish it all with [JavaScript Garden](http://bonsaiden.github.io/JavaScrip
 ### Exercisms
 
 * Complete *5* of your own completed [exercism.io][exer] exercises in JavaScript
-* Leave meaningful feedback on *5* solutions submitted by your classmates
+* Review solutions by 5 other people for the same exercises, and compare your solution to theirs
 
 If you have trouble with the exercism UI, you can find other versions of exercisms you submitted at this link:http://exercism.io/tracks/javascript/exercises
 
 [exer]: http://exercism.io/
+
+[Submit your work here](https://gist.github.com/neight-allen/578b69a5eb31fe3a0e5f12a4908d7651)
 
 ## Extensions
 
