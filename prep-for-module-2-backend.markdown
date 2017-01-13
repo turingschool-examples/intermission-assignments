@@ -85,6 +85,7 @@
 
 ## Optional Additional Prep Work
 
+* [Git Tutorial - Git Immersion](http://gitimmersion.com/)
 * [Design for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 * [Codecademy's HTML/CSS Track](http://www.codecademy.com/en/tracks/web)
 * [CodeSchool's Front-end Foundations Slides](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
