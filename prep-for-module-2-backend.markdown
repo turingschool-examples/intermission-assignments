@@ -87,7 +87,7 @@
 
 ## Git Immersion Tutorial
 
-Go through[this Git Tutorial - Git Immersion](http://gitimmersion.com/) and do the following labs:
+Go through [this Git Tutorial - Git Immersion](http://gitimmersion.com/) and do the following labs:
 
 * Labs 1-11
 * Labs 14-15
