@@ -16,6 +16,8 @@
 * 3.) Get Module 2 Tools
     * Rails
     * Postgres
+* 4.) Git Immersion Tutorial
+    * [Git Tutorial - Git Immersion](http://gitimmersion.com/)
 
 ## HTML/CSS
 
@@ -82,6 +84,18 @@
 
   These last 2 lines will set up a special Daemon init file so that your operating
   system will start postgres automatically whenever you log in.
+
+## Git Immersion Tutorial
+
+Go through[this Git Tutorial - Git Immersion](http://gitimmersion.com/) and do the following labs:
+
+* Labs 1-11
+* Labs 14-15
+* Lab 19
+* Labs 24-30
+* Labs 36-44
+
+These are very short labs, some amy take seconds to complete. The challenge is to build the mental model of what is actually going on. Challenge yourself to think extra critically about what is going on in each lab and do a little research into each topic if you're not quite getting the purpose of the got command.
 
 ## Optional Additional Prep Work
 
