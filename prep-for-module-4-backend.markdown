@@ -6,7 +6,7 @@ To prepare for Module 4 we need to develop your fundamental understandings of Ja
 
 * You are to complete this work and submit your results by 9AM on the first day of the module in order to join the class
 * Complete the *Expected Work* below and *One Extension*
-* You should [fork this Gist](...) and use it to record your work submission
+* You should [fork this Gist](https://gist.github.com/neight-allen/578b69a5eb31fe3a0e5f12a4908d7651) and use it to record your work submission
 * Let your instructional team know as soon as possible if you have questions/problems completing the assignment
 
 ## Expected Work
