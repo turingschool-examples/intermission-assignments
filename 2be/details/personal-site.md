@@ -1,4 +1,4 @@
-# Build a Personal Blog
+# Build a Personal Site
 
 Use the HTML and CSS skills you learned to build yourself a personal blog site.
 
