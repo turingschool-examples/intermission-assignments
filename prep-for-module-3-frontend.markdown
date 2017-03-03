@@ -6,7 +6,9 @@
 [Wes Bos Redux Tutorial](https://learnredux.com/)  
 
 [*optional*]  
-[Dan Abramov's Egghead Tutorial](https://egghead.io/courses/getting-started-with-redux)
+[Dan Abramov's Egghead Tutorial](https://egghead.io/courses/getting-started-with-redux)  
+[The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0)  
+
 
 ### NodeSchool.io
 [**required**]
