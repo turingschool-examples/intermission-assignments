@@ -2,8 +2,6 @@
 
 ## Read
 
-- [Organizing Mobile](http://alistapart.com/article/organizing-mobile)
-- [How to Structure a Sass Project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
   - [Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions)
   - [Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality)
