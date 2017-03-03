@@ -33,6 +33,8 @@ You'll be building out the "Manage Foods" portion of the site.
 - When I click the "Delete" icon next to a food, it will be removed from the list.
 - I can filter the table of foods by typing into the "Filter by Name" box above the table. Show only foods that match the text typed. Filter the list on each key press. Should be case insensitive.
 
+### Next Steps
+
 You are not required to TDD these features. We will have a lesson on testing in JS. If you want to try testing before the lesson, a couple tests have been written, and you can experiment with writing your own tests.
 
 The next step is persisting your changes after a refresh, but we'll have a lesson to help you with that, so no need to start.
