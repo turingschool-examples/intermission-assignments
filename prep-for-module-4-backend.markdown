@@ -1,19 +1,24 @@
 # Module 4 Intermission Assignments
 
-To prepare for Module 4 we need to develop your fundamental understandings of JavaScript.
-
-## Submission
-
-* You are to complete this work and submit your results by 9AM on the first day of the module in order to join the class
-* Complete the *Expected Work* below and *One Extension*
-* You should [fork this Gist](...) and use it to record your work submission
-* Let your instructional team know as soon as possible if you have questions/problems completing the assignment
+To prepare for Module 4 we'd like for you to complete the following before 9 AM Monday (the first day of M4).
 
 ## Expected Work
 
-### Introduction to JavaScript Topics Reading
+### 1. Reflection on Learning Experiences
 
-[Submit Your Work Here](https://github.com/turingschool/intermission-assignments/issues/94)
+Complete this [exercise](https://gist.github.com/case-eee/c70bef26c5f71286d70fe6b379342b95) to reflect on your learning experience thus far here at Turing.
+
+### 2. Debugging JavaScript
+
+You've all had some experience with JavaScript thus far. We'd like to prepare you for M4 by diving deep into how we debug with JavaScript (since we're going to be diving deeper into writing JavaScript). Work through this [lesson](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/lessons/debugging_javascript.markdown) (you may already know most of this information, but we encourage you to use this as a refresher).
+
+### 3. Quantified Self
+
+Nate will put info here!
+
+## Optional Work
+
+### Introduction to JavaScript Topics Reading
 
 **Read** the following selections from [Speaking JavaScript](http://speakingjs.com/es5/) & [Eloquent JavaScript](http://eloquentjavascript.net//):
 
@@ -34,7 +39,6 @@ If you have trouble with the exercism UI, you can find other versions of exercis
 
 [exer]: http://exercism.io/
 
-[Submit your work here](https://gist.github.com/neight-allen/578b69a5eb31fe3a0e5f12a4908d7651)
 
 ## Extensions
 
