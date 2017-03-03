@@ -4,6 +4,7 @@
 
 - Eloquent JavaScript: [Chapter 17 - HTTP](http://eloquentjavascript.net/17_http.html) and [Chapter 20 - Node.js](http://eloquentjavascript.net/20_node.html)
 - Complete the tutorial for [Node/Express](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
+- Read these things [about RESTful API design](http://blog.octo.com/en/design-a-rest-api/)
 
 ## Scaling Up as a Developer
 
