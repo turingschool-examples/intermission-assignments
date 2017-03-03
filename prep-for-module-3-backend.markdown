@@ -30,7 +30,7 @@ NOTE: This is not because one way is better, but it's extremely important to und
 
 ## Optional (Choose Your Own Adventure)
 
-### API Learning Spike (I want a little head start on M2)
+### API Learning Spike (I want a little head start on M3)
 
 *Option 1:* See if you can create a Rails API that responds to a request to `/api/v1/items` with JSON. Review the video above to see what this will look like in your browser. Hint: that looks an awful lot like a double nested route to me.
 
