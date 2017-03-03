@@ -1,8 +1,8 @@
 # Assignments to Prep for Module 3
 
-## Ruby on Rails
+## Most Important
 
-### Most Important
+### SQL/ActiveRecord
 
 Entering Module 3 with a solid understanding of ActiveRecord and SQL is key to getting the module off to a good start. Make sure you are able to write and understand queries that involve multiple `JOIN` statements and that combine math functions.
 
@@ -10,7 +10,13 @@ Entering Module 3 with a solid understanding of ActiveRecord and SQL is key to g
 1. Complete and understand the [Intermediate SQL II](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) challenges.
 1. Complete and understand [ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
 
-### Next Most Important
+### APIs
+
+Additionally, in Module 3 we will be creating applications to deliver and consume APIs. What is an API, you might ask? Watch [this video](https://www.youtube.com/watch?v=7YcW25PHnAA) to find out more.
+
+## Next Most Important
+
+### Rails Routing
 
 Rewrite your Little Shop `routes.rb`:
 
@@ -22,15 +28,34 @@ If you do not own the repo for your project, fork it, and rewrite the routes fil
 
 NOTE: This is not because one way is better, but it's extremely important to understand what every line of your routes file is doing. Rails Engine demands a solid understanding of Rails routing.
 
-#### Optional
+## Optional (Choose Your Own Adventure)
 
-[Practical Object-Oriented Design in Ruby](http://www.amazon.com/gp/product/0321721330)
+### API Learning Spike (I want a little head start on M2)
 
-Sandi Metz's book permanently changed the way I program. In this book, she teaches you how to write exceptionally well-factored code. At least try to read the first three chapters if you can.
+*Option 1:* See if you can create a Rails API that responds to a request to `/api/v1/items` with JSON. Review the video above to see what this will look like in your browser. Hint: that looks an awful lot like a double nested route to me.
 
-## JavaScript
+* Don't worry if you can't get this to work.
+* Don't worry about testing.
+* Timebox your work so that you come to M3 refreshed.
+* The goal here is to tinker and see if you can get a thing to work. Stop working if it stops being fun.
+* Use the internet to see what you can find about creating a simple Rails API.
+* Feel free to talk to mentors or colleagues about potential resources.
+* Don't just use the first resource you find. Cast your net wide and then pick a few resources to use as touchstones.
 
-### JavaScript Basics (Optional)
+*Option 2:* Download [Postman](https://www.getpostman.com/) or sign up for an [apigee](https://apigee.com/) account. Dig into the documentation for an API and see all the different data you can get back.
+
+* [Sunlight Foundation](https://sunlightlabs.github.io/congress/)
+* [Facebook](https://developers.facebook.com/docs/graph-api)
+* [Twitter](https://dev.twitter.com/rest/public)
+* [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
+* [GitHub](https://developer.github.com/v3/)
+
+### Reading (My laptop and I are on a break)
+
+[Practical Object-Oriented Design in Ruby](http://www.amazon.com/gp/product/0321721330): Sandi Metz's book permanently changed the way I program. In this book, she teaches you how to write exceptionally well-factored code. At least try to read the first three chapters if you can.
+[Head First SQL](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849/ref=sr_1_1?ie=UTF8&qid=1488547158&sr=8-1&keywords=head+first+sql): A nice introduction to SQL.
+
+### JavaScript/JQuery (What's this JavaScript I keep hearing about?)
 
 [Codecademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
 
@@ -43,16 +68,30 @@ Focus primarily on the sections for:
 * Data Structures
 * Objects I and Objects II
 
-### jQuery Basics (Optional)
-
 [jQuery](https://www.codeschool.com/courses/try-jquery)
 
 Jquery is a popular javascript library for manipulating the content of web pages. Dip your toes in with this introductory Jquery class.
 
-## Front-End Development
+### Front-End Development (Where do the FE kids get those cool backpacks?)
 
-### Optional
+* Revisit your personal site. See if you can upgrade the styling. Consider using [Sass](http://sass-lang.com/guide).
+* Re-style your Rails Mini-Project or Job Tracker.
+* Dive into some tools
+    * [Good old fashioned HTML & CSS](http://www.htmlandcssbook.com/)
+    * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): newer HTML & CSS
+    * [CSS Selectors](https://css-tricks.com/how-css-selectors-work/)
+    * [Sass](http://sass-lang.com/guide)
+    * [Bourbon, Neat, Bitters](http://bourbon.io/)
+    * [Materialize](http://materializecss.com/)
+    * [Bootstrap](http://getbootstrap.com)
+* Explore an alternative templating language
+    * [HAML](http://haml.info/tutorial.html)
 
-* [Bootstrap](http://getbootstrap.com)
-* [HAML](http://haml.info/tutorial.html)
-* [SASS](http://sass-lang.com/guide)
+### Other Frameworks (I learned a lot about English in all those Spanish classes I took)
+
+* Back End
+    * [Express](http://expressjs.com/)
+    * [Django](https://www.djangoproject.com/)
+    * [Phoenix](http://www.phoenixframework.org/)
+* Front End
+    * [Ember](http://emberjs.com/)
