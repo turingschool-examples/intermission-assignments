@@ -2,19 +2,40 @@
 
 To prepare for Module 4 we'd like for you to complete the following before 9 AM Monday (the first day of M4).
 
-## Expected Work
-
-### 1. Reflection on Learning Experiences
+## 1. Reflection on Learning Experiences
 
 Complete this [exercise](https://gist.github.com/case-eee/c70bef26c5f71286d70fe6b379342b95) to reflect on your learning experience thus far here at Turing.
 
-### 2. Debugging JavaScript
+## 2. Debugging JavaScript
 
 You've all had some experience with JavaScript thus far. We'd like to prepare you for M4 by diving deep into how we debug with JavaScript (since we're going to be diving deeper into writing JavaScript). Work through this [lesson](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/lessons/debugging_javascript.markdown) (you may already know most of this information, but we encourage you to use this as a refresher).
 
-### 3. Quantified Self
+## 3. Quantified Self Head Start
 
-Nate will put info here!
+Quantified self will be your project week 1. You'll be building a calorie tracker. We wanted you to use your time over intermission week to get a head start.
+
+### Getting started
+
+Clone down the [Quantified Self Starter Kit](https://github.com/turingschool-examples/quantified-self-os). And take a quick gander at the readme.
+
+### Requirements
+
+You'll be building out the "Manage Foods" portion of the site.
+
+![(Manage Foods)](http://backend.turing.io/module4/projects/quantified-self-resource-management.png)
+
+- When I visit foods.html, I can enter a name and calorie amount, and create a new food by clicking "Add Food"
+- When I click "Add Food", and all fields are filled, the food will appear at the top of the table below
+- When I click "Add Food" and the Name field is blank, a food will not be created, but I will see an error message below the Name field: "Please enter a food name"
+- When I click "Add Food" and the Calories field is blank, a food will not be created, but I will see an error message below the Calories field: "Please enter a calorie amount"
+- When I attempt to create a food, any error messages should be cleared to make room for new error messages
+- When I successfully create a food, text fields should be cleared
+- When I click the "Delete" icon next to a food, it will be removed from the list.
+- I can filter the table of foods by typing into the "Filter by Name" box above the table. Show only foods that match the text typed. Filter the list on each key press. Should be case insensitive.
+
+You are not required to TDD these features. We will have a lesson on testing in JS. If you want to try testing before the lesson, a couple tests have been written, and you can experiment with writing your own tests.
+
+The next step is persisting your changes after a refresh, but we'll have a lesson to help you with that, so no need to start.
 
 ## Optional Work
 
