@@ -1,6 +1,7 @@
 # Module 2 Prep Work
 
 1. [Get Module 2 Tools](details/tools.md)
+1. [How To Pull Request](https://yangsu.github.io/pull-request-tutorial/)
 1. [Complete HTML/CSS Tutorial](details/html-css.md)
 1. [Complete Web Guesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html): Build out base functionality and add at least one of the extensions.
 1. [Submit link to Web Guesser repository](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/2module/intermission_work/web_guesser.md) (*DEADLINE:* Monday 3/6)
