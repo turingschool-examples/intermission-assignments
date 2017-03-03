@@ -19,4 +19,4 @@
 1. [Complete Task Manager](https://github.com/s-espinosa/task_manager_redux)
 1. [Submit a link to your Task Manager repository](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/2module/intermission_work/task_manager.md) (*DEADLINE:* Sunday 3/12) - You will need to have this project finished before you can attend any class in module 2.
 
-Optional: browse the projects linked [here](details/optional.md)
+Optional: browse the projects linked [here](details/additional.md)
