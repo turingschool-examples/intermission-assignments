@@ -45,4 +45,4 @@ Here are some podcasts and videos to listen to and watch respectively:
 - [Ember.js - JS Jabber](https://devchat.tv/js-jabber/218-jsj-ember-js-with-yehuda-katz)
 
 ### Submission Instructions
-[Submit Work Here](https://github.com/turingschool/intermission-assignments/issues/98)  
+[Submit Work Here](https://github.com/turingschool/intermission-assignments/issues/105)  
