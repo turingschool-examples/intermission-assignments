@@ -4,7 +4,7 @@
 
 To prepare for Module 4 we'd like for you to complete the following before 9 AM Monday (the first day of M4).
 
-### 1. Reflection on Learning Experiences
+## 1. Reflection on Learning Experiences
 
 Complete this [exercise](https://gist.github.com/neight-allen/78d1b788357d6da5a0c93c7080def654) to reflect on your learning experience thus far here at Turing.
 
@@ -12,16 +12,15 @@ Complete this [exercise](https://gist.github.com/neight-allen/78d1b788357d6da5a0
 
 We'll start with some backend JavaScript. Work through [this lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser). It will introduce you to Node.js, and basic unit testing using Mocha.
 
-
 ## 3. Debugging JavaScript
 
 You've all had some experience with JavaScript thus far, but probably haven't done too much in the Node environment. Check out this [lesson](http://backend.turing.io/module4/lessons/debugging-in-node) for some basic debugging tools in Node
 
 ## 4. Sorting Suite
 
-Complete Sorting Suite in Javascript. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements. Ignore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
+Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/sorting-suite.html). Choose two out of the three fundamental sorting algorithms to complete. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements, but you can gnore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
 
-When you're finished, add your repo to your forked gist from the reflection exercise
+When you're finished, add your repo to your forked gist from the reflection exercise in part one above.
 
 ### Tips for JS success
 
