@@ -8,15 +8,25 @@ To prepare for Module 4 we'd like for you to complete the following before 9 AM 
 
 Complete this [exercise](https://gist.github.com/neight-allen/78d1b788357d6da5a0c93c7080def654) to reflect on your learning experience thus far here at Turing.
 
-## 2. JavaScript without a browser
+## 2. JavaScript Fundamentals
+
+Read the following lessons to gain a deeper understanding of JavaScript syntax and how JavaScript works. Depending on your level of knowledge with JavaScript, some of this may be a review and some of this may be new. Even if you feel confident with the fundamentals of JavaScript, we encourage you to read through the content as a refresher.
+
+* [Data Types, Variables, Conditionals, Function Basics](http://frontend.turing.io/lessons/module-1/js-1.html)
+* [Function Fundamentals, Variable Scope, Loops, Arrays](http://frontend.turing.io/lessons/module-1/js-2.html)
+* [DOM Manipulation](http://frontend.turing.io/lessons/module-1/js-3-dom-manipulation.html)
+* [Objects, This, Data Structures](http://frontend.turing.io/lessons/module-1/js-4.html)
+* [Array Prototype Methods](http://frontend.turing.io/lessons/array-prototype-methods-intro)
+
+## 3. JavaScript without a browser
 
 We'll start with some backend JavaScript. Work through [this lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser). It will introduce you to Node.js, and basic unit testing using Mocha.
 
-## 3. Debugging JavaScript
+## 4. Debugging JavaScript
 
 You've all had some experience with JavaScript thus far, but probably haven't done too much in the Node environment. Check out this [lesson](http://backend.turing.io/module4/lessons/debugging-in-node) for some basic debugging tools in Node
 
-## 4. Sorting Suite
+## 5. Sorting Suite
 
 Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/sorting-suite.html). Choose two out of the three fundamental sorting algorithms to complete. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements, but you can gnore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
 
