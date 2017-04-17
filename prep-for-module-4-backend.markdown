@@ -6,33 +6,37 @@ To prepare for Module 4 we'd like for you to complete the following before 9 AM 
 
 ### 1. Reflection on Learning Experiences
 
-Complete this [exercise](https://gist.github.com/case-eee/c70bef26c5f71286d70fe6b379342b95) to reflect on your learning experience thus far here at Turing.
+Complete this [exercise](https://gist.github.com/neight-allen/78d1b788357d6da5a0c93c7080def654) to reflect on your learning experience thus far here at Turing.
 
 ## 2. JavaScript without a browser
 
 We'll start with some backend JavaScript. Work through [this lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser). It will introduce you to Node.js, and basic unit testing using Mocha.
 
 
-## 2. Debugging JavaScript
+## 3. Debugging JavaScript
 
-You've all had some experience with JavaScript thus far. We'd like to prepare you for M4 by diving deep into how we debug with JavaScript (since we're going to be diving deeper into writing JavaScript). Work through this [lesson](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/lessons/debugging_javascript.markdown) (you may already know most of this information, but we encourage you to use this as a refresher).
+You've all had some experience with JavaScript thus far, but probably haven't done too much in the Node environment. Check out this [lesson](http://backend.turing.io/module4/lessons/debugging-in-node) for some basic debugging tools in Node
 
-## 3. Sorting Suite
+## 4. Sorting Suite
 
 Complete Sorting Suite in Javascript. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements. Ignore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
 
-### Tips for success
+When you're finished, add your repo to your forked gist from the reflection exercise
+
+### Tips for JS success
 
 Some biggies if you're coming from Ruby:
 
 -   Methods are called Functions
 -   `nil` is called `undefined`
--   `require`ing a file does nothing if you didn't export anything
+-   `require`ing a file you've written does nothing if you didn't export from that file
 -   All `return`s are explicit in Javascript. If you don't use the word `return`, your return value will be `undefined`
 
 Google is your friend. It's totally reasonable to type things like ".each in javascript" or "what is const in javascript"
 
 ## Optional Work
+
+All of these things were at one time part of the intermission week work. We've retooled the module, and are focused on getting you coding during intermission week. However, there's some good resources below if you want to pick and choose the things that seem interesting to you.
 
 ### Introduction to JavaScript Topics Reading
 
