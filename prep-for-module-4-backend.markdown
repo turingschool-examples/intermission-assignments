@@ -15,7 +15,6 @@ Read the following lessons to gain a deeper understanding of JavaScript syntax a
 * [Data Types, Variables, Conditionals, Function Basics](http://frontend.turing.io/lessons/module-1/js-1.html)
 * [Function Fundamentals, Variable Scope, Loops, Arrays](http://frontend.turing.io/lessons/module-1/js-2.html)
 * [DOM Manipulation](http://frontend.turing.io/lessons/module-1/js-3-dom-manipulation.html)
-* [Objects, This, Data Structures](http://frontend.turing.io/lessons/module-1/js-4.html)
 * [Array Prototype Methods](http://frontend.turing.io/lessons/array-prototype-methods-intro)
 
 ## 3. JavaScript without a browser
@@ -30,7 +29,7 @@ You've all had some experience with JavaScript thus far, but probably haven't do
 
 Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/sorting-suite.html). Choose two out of the three fundamental sorting algorithms to complete. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements, but you can gnore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
 
-When you're finished, add your repo to your forked gist from the reflection exercise in part one above.
+If we're way off base with how long this will take, cut off your intermission week work at ~12 hours. When you're finished, add your repo to your forked gist from the reflection exercise in part one above.
 
 ### Tips for JS success
 
