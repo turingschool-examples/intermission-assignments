@@ -17,6 +17,6 @@
 1. Submit a pull request to the Bootstrap tutorial repo (*DEADLINE:* Thursday 4/27)
 1. [Jumpstart Lab SQL Tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) **Do not complete the Sequel tutorial linked at the bottom of the Jumpstart Lab page.**
 1. [Complete Task Manager](https://github.com/s-espinosa/task_manager_redux)
-1. [Submit a link to your Task Manager repository](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/2module/intermission_work/task_manager.md) (*DEADLINE:* Sunday 4/30) - You will need to have this project finished before you can attend any class in module 2.
+1. [Submit a link to your Task Manager repository](https://goo.gl/forms/r3agPhaM24PoH8Ot1) (*DEADLINE:* Sunday 4/30) - You will need to have this project finished before you can attend any class in module 2.
 
 Optional: browse the projects linked [here](details/additional.md)
