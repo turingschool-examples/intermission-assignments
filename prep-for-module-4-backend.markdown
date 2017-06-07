@@ -10,7 +10,7 @@ Complete this [exercise](https://gist.github.com/neight-allen/78d1b788357d6da5a0
 
 ## 2. JavaScript Fundamentals
 
-Read the following lessons to gain a deeper understanding of JavaScript syntax and how JavaScript works. Depending on your level of knowledge with JavaScript, some of this may be a review and some of this may be new. Even if you feel confident with the fundamentals of JavaScript, we encourage you to read through the content as a refresher.
+Read the following lessons to gain a deeper understanding of JavaScript syntax and how JavaScript works. Depending on your level of knowledge with JavaScript, some of this may be a review and some of this may be new. Even if you feel confident with the fundamentals of JavaScript, we encourage you to read through the content as a refresher. This content is taken from the Front End program - we think it's a great overview of the JS basics.
 
 * [Data Types, Variables, Conditionals, Function Basics](http://frontend.turing.io/lessons/module-1/js-1.html)
 * [Function Fundamentals, Variable Scope, Loops, Arrays](http://frontend.turing.io/lessons/module-1/js-2.html)
@@ -30,6 +30,10 @@ You've all had some experience with JavaScript thus far, but probably haven't do
 Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/sorting-suite.html). Choose two out of the three fundamental sorting algorithms to complete. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements, but you can gnore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
 
 If we're way off base with how long this will take, cut off your intermission week work at ~12 hours. When you're finished, add your repo to your forked gist from the reflection exercise in part one above.
+
+## 6. Submit your work.
+
+Find your document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/4module/intermission_work.md), update the "Sorting Suite" and "Reflection" link next to your name, and create a PR titled `YourName-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any cirucumstances, you need to DM your instructors. 
 
 ### Tips for JS success
 
