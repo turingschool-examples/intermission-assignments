@@ -13,7 +13,8 @@
 - Do the [HTML Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) tutorial!
 - [Debug with DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/).
 - Refactor Idea Box 
-  - get rid of long if else statements 
-  - DRY up your code 
+  * get rid of long if else statements 
+  * DRY up your code
+  * Try using some new es6 syntax
 - [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/)
   - Do `Setting Up Babel`, `Using Let Variables`, `Using Destructuring`, `Using Arrow Functions`, & `Using Classes`
