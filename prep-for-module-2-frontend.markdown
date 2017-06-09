@@ -11,7 +11,7 @@
 ## Do
 - Watch [Mary Rose Cook build a Game!](https://vimeo.com/105955605)
 - Do the [HTML Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) tutorial!
-- Complete the [Learn DevTools](https://www.codeschool.com/courses/discover-devtools) course.
+- [Debug with DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/).
 - Refactor Idea Box 
   - get rid of long if else statements 
   - DRY up your code 
