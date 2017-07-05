@@ -7,6 +7,8 @@
 - Read these things [about RESTful API design](http://blog.octo.com/en/design-a-rest-api/)
 - Read about and practice writing [Promises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab)
 
+*Note:* For some projects in module 4, you will have to use vanilla JS or jQuery (you will not be able to use React or other frameworks in the first project, for instance). So refresh your skills as needed.
+
 ## Scaling Up as a Developer
 
 As we move into the final module of Turing, we're getting fairly competent at producing useful software. But rather than being the end of the journey, this really just opens the door to even deeper rabbit holes—now that I can get something done, what other ways might there be to accomplish the same thing? The same observable effects could be accomplished via numerous different combinations of code. What are the underlying opinions and ideas embodied by each choice?
