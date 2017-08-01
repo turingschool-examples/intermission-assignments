@@ -4,7 +4,7 @@
 
 - Eloquent JavaScript: [Chapter 17 - HTTP](http://eloquentjavascript.net/17_http.html) and [Chapter 20 - Node.js](http://eloquentjavascript.net/20_node.html)
 - Complete the tutorial for [Node/Express](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
-- Read these things [about RESTful API design](http://blog.octo.com/en/design-a-rest-api/)
+- Read these things [about RESTful API design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - Read about and practice writing [Promises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab)
 
 *Note:* For some projects in module 4, you will have to use vanilla JS or jQuery (you will not be able to use React or other frameworks in the first project, for instance). So refresh your skills as needed.
