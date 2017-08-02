@@ -17,9 +17,11 @@ Read the following lessons to gain a deeper understanding of JavaScript syntax a
 * [Objects, This, Data Structures](http://frontend.turing.io/lessons/module-1/js-4.html)
 * [Array Prototype Methods](http://frontend.turing.io/lessons/array-prototype-methods-intro)
 
-## 3. JavaScript without a browser
+## 3. JavaScript without a Browser
 
-We'll start with some backend JavaScript. Work through [this lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser). It will introduce you to Node.js, and basic unit testing using Mocha.
+While JavaScript was originally intended to be a client-side scripting language, it has since made its way server-side thanks to Node.js. We're now able to use the same language for browser-based interactions as well as server-side scripts.
+
+Let's get introduced to JavaScript without a browser. Work through [this lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser). It will introduce you to Node.js and basic unit-testing using Mocha.
 
 ## 4. Debugging JavaScript
 
@@ -33,7 +35,7 @@ If we're way off base with how long this will take, cut off your intermission we
 
 ## 6. Submit your work.
 
-Find the submission document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/4module/intermission_work.md), update the "Sorting Suite" and "Reflection" link next to your name, and create a PR titled `YourName-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any cirucumstances, you need to DM your instructors as soon as possible. 
+Find the submission document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/4module/intermission_work.md), update the "Sorting Suite" and "Reflection" link next to your name, and create a PR titled `YourName-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any cirucumstances, you need to DM your instructors as soon as possible.
 
 ### Tips for JS success
 
