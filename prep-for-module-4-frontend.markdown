@@ -2,6 +2,7 @@
 
 ## Filling Out Your Skill Set
 
+- If you're not familiar with the HTTP request-response cycle, then [watch this video](https://www.youtube.com/watch?v=eesqK59rhGA)
 - Eloquent JavaScript: [Chapter 17 - HTTP](http://eloquentjavascript.net/17_http.html) and [Chapter 20 - Node.js](http://eloquentjavascript.net/20_node.html)
 - Complete the tutorial for Node/Express - Coming soon!
 - Read these things [about RESTful API design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
