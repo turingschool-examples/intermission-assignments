@@ -35,7 +35,7 @@ If we're way off base with how long this will take, cut off your intermission we
 
 ## 6. Submit your work.
 
-Find the submission document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/4module/intermission_work.md), update the "Sorting Suite" and "Reflection" link next to your name, and create a PR titled `YourName-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any cirucumstances, you need to DM your instructors as soon as possible.
+Find the submission document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1703-b/4module/intermission_work.md), update the "Sorting Suite" and "Reflection" link next to your name, and create a PR titled `YourName-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any cirucumstances, you need to DM your instructors as soon as possible.
 
 ### Tips for JS success
 
