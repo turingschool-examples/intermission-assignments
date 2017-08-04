@@ -33,14 +33,3 @@ Here are some podcasts and videos to listen to and watch respectively:
 
 ### Submission Instructions
 [Submit Work Here](https://github.com/turingschool/intermission-assignments/issues/106)  
-
-### NodeSchool.io
-
-This week, you'll be working through some courses at [nodeschool.io][ns]. The point of these courses is to get back into exploring resources to write JavaScript differently, now that you have 2 full modules under your belt.
-
-[ns]: http://nodeschool.io
-
-Please work through the following 2 courses:
-
-* [Scope Chains and Closures](https://github.com/jesstelford/scope-chains-closures)
-* [ExpressWorks](https://github.com/azat-co/expressworks)
