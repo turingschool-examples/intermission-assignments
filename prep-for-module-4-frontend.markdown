@@ -4,7 +4,7 @@
 
 - If you're not familiar with the HTTP request-response cycle, then [watch this video](https://www.youtube.com/watch?v=eesqK59rhGA)
 - Eloquent JavaScript: [Chapter 17 - HTTP](http://eloquentjavascript.net/17_http.html) and [Chapter 20 - Node.js](http://eloquentjavascript.net/20_node.html)
-- Complete the tutorial for Node/Express - Coming soon!
+- Complete the [tutorial for Node/Express](https://medium.com/@jaeger.rob/introduction-to-nodes-express-js-db5617047150) - In addition to going through the tutorial, work on 3 out of 4 of the problems in the "Further Challenges" section at the end of the tutorial
 - Read these things [about RESTful API design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - Read about and practice writing [Promises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab)
 
