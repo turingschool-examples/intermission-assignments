@@ -1,9 +1,18 @@
 # Learn HTML and CSS Basics
 
-Unless you have **significant** experience with HTML and CSS, choose one of these to complete:
+* [What is HTML anyway? MDN's basics of HTML...  MDN==Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics)
 
-1) [Shay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/). Written tutorial. Super informative and comprehensive. Not obnoxious. Lots of hours.
+* [Shay Howe's Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/). Written tutorial. Super informative and comprehensive. Not obnoxious. Lots of hours.
 
-2) [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
+* [Khanacademy's HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css). Video and in-browser editor. Super informative, slightly obnoxious at points :) Approximately 3-6 hours.
 
-3) [Code Academy's HTML/CSS Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours.
+* [Code Academy's HTML/CSS Course](https://www.codecademy.com/learn/web). Interactive written tutorial. Fairly comprehensive. Approximately 5-7 hours.
+
+* [CodeSchool's Front-end Foundations Slides](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
+
+* [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) (Great book and resource)
+
+* [30 Days to Learn HTML & CSS](http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css)
+
+* [Design for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
+
