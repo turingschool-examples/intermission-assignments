@@ -16,3 +16,8 @@
 
 * [Design for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 
+* [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+* [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
+
+
