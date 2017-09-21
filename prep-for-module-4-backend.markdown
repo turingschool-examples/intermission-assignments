@@ -15,7 +15,7 @@ Read the following lessons to gain a deeper understanding of JavaScript syntax a
 * [Data Types, Variables, Conditionals, Function Basics](http://frontend.turing.io/lessons/module-1/js-1.html)
 * [Function Fundamentals, Variable Scope, Loops, Arrays](http://frontend.turing.io/lessons/module-1/js-2.html)
 * [Objects, This, Data Structures](http://frontend.turing.io/lessons/module-1/js-4.html)
-* [Array Prototype Methods](http://frontend.turing.io/lessons/array-prototype-methods-intro)
+* [Array Prototype Methods](http://frontend.turing.io/lessons/module-1/array-prototype-methods-intro)
 
 ## 3. JavaScript without a Browser
 
