@@ -7,6 +7,7 @@
 - Complete the [tutorial for Node/Express](https://medium.com/@jaeger.rob/introduction-to-nodes-express-js-db5617047150) - In addition to going through the tutorial, work on 3 out of 4 of the problems in the "Further Challenges" section at the end of the tutorial
 - Read these things [about RESTful API design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - Read about and practice writing [Promises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab)
+- Become familiar with the git rebase workflow (you will use this on projects in module 4). Read this article on [git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) and this article on [merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).
 
 *Note:* For some projects in module 4, you will have to use vanilla JS or jQuery (you will not be able to use React or other frameworks in the first project, for instance). So refresh your skills as needed.
 
