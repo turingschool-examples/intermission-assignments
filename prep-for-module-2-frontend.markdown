@@ -21,6 +21,10 @@
 
 - Do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/learn-javascript-classes/lessons/classes?course_redirect=introduction-to-javascript)
 
+#### Start Using Developer Tools
+[Dev Tools](http://discover-devtools.codeschool.com/)
+  - Do Sections 2 - 4
+
 #### Refactor Idea Box
   - get rid of long if else statements
   - DRY up your code
