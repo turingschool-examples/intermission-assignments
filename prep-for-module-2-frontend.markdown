@@ -19,7 +19,8 @@
   - `Using Destructuring`
   - `Using Arrow Functions`
 
-- Do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/learn-javascript-classes/lessons/classes?course_redirect=introduction-to-javascript)
+- Do the codecademy [ES6 Class Tutorial]
+(https://www.codecademy.com/courses/learn-javascript-classes/lessons/classes/exercises/introduction)
 
 #### Start Using Developer Tools
 [Dev Tools](http://discover-devtools.codeschool.com/)
