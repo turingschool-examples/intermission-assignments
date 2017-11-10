@@ -2,6 +2,14 @@
 
 ## Most Important
 
+### HTTP Request/Response
+
+**Using paper and a writing utensil:**
+
+* On one piece of paper, write out all of the parts of an example HTTP GET request
+* On a separate piece of paper, write out an example response to that request with all of the parts.
+
+
 ### SQL/ActiveRecord
 
 Entering Module 3 with a solid understanding of ActiveRecord and SQL is key to getting the module off to a good start. Make sure you are able to write and understand queries that involve multiple `JOIN` statements and that combine math functions.
