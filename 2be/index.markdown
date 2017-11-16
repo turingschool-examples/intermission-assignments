@@ -14,5 +14,3 @@ Use the resources below if you feel like you need any additional practice.
 1. [HTML/CSS Tutorials](details/html-css.md)
 1. [Git/Github](details/git.md)
 1. [Sinatra](details/sinatra.md)
-
-Optional: browse the projects linked [here](details/additional.md)
