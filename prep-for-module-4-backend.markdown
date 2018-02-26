@@ -17,25 +17,40 @@ Read the following lessons to gain a deeper understanding of JavaScript syntax a
 * [Objects, This, Data Structures](http://frontend.turing.io/lessons/module-1/js-4.html)
 * [Array Prototype Methods](http://frontend.turing.io/lessons/module-1/array-prototype-methods-intro)
 
+Create a free account on [JavaScript 30](https://javascript30.com/) and complete:
+  - Array Cardio Days 1
+  - Array Cardio Day 2
+  - Objects and Arrays
+  - Tally String Times with Reduce
+  - Feel free to choose a few more that look interesting to you! They are all great resources, we just think the 4 above are _most_ relevant to what you need to start Mod 4.
+  - Code along as you follow the videos and **copy and paste the code into a gist** (one gist is fine; separate each video with a comment)
+
 ## 3. JavaScript without a Browser
 
 While JavaScript was originally intended to be a client-side scripting language, it has since made its way server-side thanks to Node.js. We're now able to use the same language for browser-based interactions as well as server-side scripts.
 
 Let's get introduced to JavaScript without a browser. Work through [this lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser). It will introduce you to Node.js and basic unit-testing using Mocha.
 
-## 4. Debugging JavaScript
+## 4. ES5 vs. ES6
+- [ES5 v ES6 Lesson](http://frontend.turing.io/lessons/module-2/es5-vs-es6.html)
+- [ES5 v ES6 Slides](https://docs.google.com/presentation/d/1ISEwW7suiVzmDb7sJg1Y_kFaKu6OaRFzLGPbk3XVAHg/edit)
+- Convert the ES5 functions in the [repl](https://repl.it/@ameseee/ES5-greater-ES6) into ES6 functions.
 
-You've all had some experience with JavaScript thus far, but probably haven't done too much in the Node environment. Check out this [lesson](http://backend.turing.io/module4/lessons/debugging-in-node) for some basic debugging tools in Node
 
 ## 5. Sorting Suite
 
-Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/sorting-suite.html). Choose **two** out of the three fundamental sorting algorithms to complete. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements, but you can ignore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
+Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/sorting-suite.html). Choose **one** out of the three fundamental sorting algorithms to complete. Use Node.js to run your code, and Mocha/Chai to write your tests. FE2 gets this as a project, so we'll use their project requirements, but you can ignore the rubric. You won't be graded. We just want you to get some practice testing and writing JavaScript.
 
-If we're way off base with how long this will take, cut off your intermission week work at ~12 hours. When you're finished, add your repo to your forked gist from the reflection exercise in part one above.
+## 6. DOM Manipulation Challenges
 
-## 6. Submit your work.
+Clone down both of the repos and complete steps laid out in the README. You will need to create a repo for each and push your work to it to submit.
 
-Find the submission document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1708-b/4module/intermission_work.md), update the "Sorting Suite" and "Reflection" link next to your name, and create a PR titled `YourName-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any cirucumstances, you need to DM your instructors as soon as possible.
+[Style Editor Challenge](https://github.com/turingschool-examples/javascript-style-editor-challenge)
+[Add Comments Challenge](https://github.com/turingschool-examples/javascript-add-comments-challenge)
+
+## 7. Submit your work.
+
+Find the submission document located [here](https://github.com/turingschool/ruby-submissions/blob/master/1708-b/4module/intermission_work.md), update the links next to your name, and create a PR titled `FirstLast-Intermission Work`. The deadline for submissions is Monday, Week 1 at 9 AM. If you anticipate that you won't meet this deadline for any circumstances, you need to DM your instructors as soon as possible.
 
 ### Tips for JS success
 
