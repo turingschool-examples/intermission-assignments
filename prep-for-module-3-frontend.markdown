@@ -3,10 +3,9 @@
 ### Redux
 
 [**required**]  
-[Wes Bos Redux Tutorial](https://learnredux.com/)  
+[Dan Abramov's Egghead Tutorial](https://egghead.io/courses/getting-started-with-redux)  
 
 [*optional*]  
-[Dan Abramov's Egghead Tutorial](https://egghead.io/courses/getting-started-with-redux)  
 [The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0)  
 
 ### Mini JavaScript Tutorials
@@ -29,7 +28,3 @@ Here are some podcasts and videos to listen to and watch respectively:
 
 - [Learning JavaScript in 2016 - JS Jabber](https://devchat.tv/js-jabber/219-jsj-learning-javascript-in-2016)
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
-- [Ember.js - JS Jabber](https://devchat.tv/js-jabber/218-jsj-ember-js-with-yehuda-katz)
-
-### Submission Instructions
-[Submit Work Here](https://github.com/turingschool/intermission-assignments/issues/106)  
