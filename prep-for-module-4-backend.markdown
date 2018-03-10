@@ -45,8 +45,8 @@ Complete Sorting Suite in Javascript [here](http://frontend.turing.io/projects/s
 
 Clone down both of the repos and complete steps laid out in the README. You will need to create a repo for each and push your work to it to submit.
 
-[Style Editor Challenge](https://github.com/turingschool-examples/javascript-style-editor-challenge)
-[Add Comments Challenge](https://github.com/turingschool-examples/javascript-add-comments-challenge)
+* [Style Editor Challenge](https://github.com/turingschool-examples/javascript-style-editor-challenge)
+* [Add Comments Challenge](https://github.com/turingschool-examples/javascript-add-comments-challenge)
 
 ## 7. Submit your work.
 
