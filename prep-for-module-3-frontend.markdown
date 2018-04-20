@@ -4,6 +4,10 @@
 
 Practice building IdeaBox in React
 
+### Asynchronous JavaScript
+
+Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop
+
 ### Redux
 
 [**required**]  
@@ -31,5 +35,4 @@ Please complete the following 5 exercises, plus 5 more of your choosing for a to
 Here are some podcasts and videos to listen to and watch respectively:
 
 - [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
-- [Learning JavaScript in 2016 - JS Jabber](https://devchat.tv/js-jabber/219-jsj-learning-javascript-in-2016)
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
