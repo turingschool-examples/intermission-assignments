@@ -2,7 +2,8 @@
 
 ### React
 
-Practice building IdeaBox in React
+* Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* Practice building IdeaBox in React
 
 ### Asynchronous JavaScript
 
