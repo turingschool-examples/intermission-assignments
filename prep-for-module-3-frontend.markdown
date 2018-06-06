@@ -34,7 +34,7 @@ Please complete the following 5 exercises, plus 5 more of your choosing for a to
 4. Sticky Nav
 5. Event Capture, Propogation, Bubbling, and Once
 
-### Extra
+## Extra
 [*optional*]
 
 Here are some podcasts and videos to listen to and watch respectively:
