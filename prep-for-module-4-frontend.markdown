@@ -10,10 +10,10 @@
 6. Read about and practice writing [Promises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab) - **Deliverable:** Write your own promises in the "Promise Approach: On Your Own" section
 7. Refresh your familiarity with the git rebase workflow (you might need to use this on projects in module 4). Read this article on [git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) and this article on [merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).
 
-*Note:* For the first project in module 4, you will have to use jQuery (you will not be able to use React or other frameworks in the first project, for instance). _Refresh your skills as needed._
+*Note:* For the first project in module 4, you will have to use jQuery again (you will not be able to use React or other frameworks in the first project, for instance). _Refresh your skills as needed._
 
 ## Prework Submission
 
-You are expected to have the prework completed by day one of module 4. For the items marked as **Deliverable**, you will submit links to your finished work to a homework submission file. [This is the homework submission file](https://github.com/turingschool/front-end-submissions-public/blob/master/1711/mod-4/homework-submissions.md).
+You are expected to have the prework completed by day one of module 4. For the items marked as **Deliverable**, you will submit links to your finished work to a homework submission file. [This is the homework submission file](https://github.com/turingschool/front-end-submissions-public/blob/master/1801/mod-4/homework-submissions.md).
 
 To submit your prework assignments, make a pull request to add links to your finished work under your name. We will use this submission file for the rest of your homework throughout the module as well.
