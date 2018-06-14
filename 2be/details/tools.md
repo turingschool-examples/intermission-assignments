@@ -22,3 +22,7 @@ Using `brew services start postgresql` after the installation is supposed to res
 Alternately, you can download and install PostgreSQL from a downloadable application built by PostgreSQL. Using Homebrew makes it much easier to install updates and has handy upgrade commands that reduce the amount of manual maintenance you need to perform. 
 
 **YOU DO NOT want to install through Both Homebrew AND the app. CHOOSE ONE**
+
+## Install Chrome
+
+If you are currently using another browser, download and install Chrome [here](https://www.google.com/chrome/). This will make it so that we can share shortcuts and have a consistent experience when debugging together as a class.
