@@ -31,7 +31,7 @@ And do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/le
 
 ## Debugging
 
-While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through chapters 2-4 of this [Dev Tools](http://discover-devtools.codeschool.com/) tutorial. Some of it may be review, but you may pick up some new tricks along the way! Feel free to work ahead to the next chapters if you'd like.
+While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
 
 
 ## Coding: Refactor Idea Box
