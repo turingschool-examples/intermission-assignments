@@ -37,3 +37,4 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
 ## Coding: Refactor Idea Box
   - get rid of long if else statements
   - DRY up your code
+  - try out converting some ES5 syntax to ES6!
