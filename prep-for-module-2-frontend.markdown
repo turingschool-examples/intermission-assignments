@@ -27,6 +27,8 @@ Then go through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/):
   - `Using Destructuring`
   - `Using Arrow Functions`
 
+Set up a repl.it account by folowing the directions [here](https://gist.github.com/thatPamIAm/ec20e805e385cc2b423185ef26bed046) 
+
 And do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/learn-javascript-classes/lessons/classes/exercises/introduction)
 
 ## Debugging
