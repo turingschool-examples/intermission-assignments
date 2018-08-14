@@ -2,7 +2,7 @@
 
 ## Install Rails
 
-If you don't already have it: `gem install rails`.
+If you don't already have it: `gem install rails --version 5.1.6`.
 
 ## Download PostgreSQL
 
