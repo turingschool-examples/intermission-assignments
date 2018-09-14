@@ -25,7 +25,11 @@ And do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/le
 
 In Mod 1, you were given general [style guides](https://github.com/turingschool-examples/javascript/tree/master/es5) for how you should be writing your code. In Mod 2, we're going to enforce a linter. A linter helps make sure that the way you write your JavaScript conforms to certain stylistic patterns and best practices.
 
-We'll be working with a tool called [eslint](https://eslint.org/), and your projects will be required to abide by the following [rules](https://github.com/turingschool-examples/javascript/blob/master/linters/module-2/non-react/.eslintrc).
+We'll be working with a tool called [eslint](https://eslint.org/), and your projects will be required to abide by the following [rules](https://github.com/turingschool-examples/javascript/blob/master/linters/module-2/non-react/.eslintrc). Read through the "rules" object in the `.eslintrc` file and look through the eslint documentation to [find each rule](https://eslint.org/docs/rules/), and familiarize yourself with what it does.
+
+Set yourself up with eslint by installing it with npm. In your terminal (from any directory), run the following command:
+
+`npm install -g eslint`
 
 
 ## Debugging
@@ -42,9 +46,12 @@ Don't worry if the intricacies of these paradigms are still confusing, but try t
 
 
 
-## Coding: Refactor Idea Box
+## Coding: Refactor Mod 1 Projects
   - rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
   - DRY up your code (find areas where code is duplicated and break it out into a function)
   - change for loops into `forEach` (you'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!)
-  - try out converting some ES5 syntax to ES6!
-  - install the linter configuration and lint your JavaScript style
+  - try out converting some ES5 syntax to ES6 (you do not need to set up babel to do this, you can simply refactor and your projects should still work in Google Chrome)
+  - install the linter configuration and lint your JavaScript style:
+    - add the `.eslintrc` file linked above to your project directory
+    - from your terminal, within your project directory, run: `eslint ./index.js` (or whatever JavaScript file you want to lint)
+    - read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error!
