@@ -47,11 +47,15 @@ Don't worry if the intricacies of these paradigms are still confusing, but try t
 
 
 ## Coding: Refactor Mod 1 Projects
-  - rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
-  - DRY up your code (find areas where code is duplicated and break it out into a function)
-  - change for loops into `forEach` (you'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!)
-  - try out converting some ES5 syntax to ES6 (you do not need to set up babel to do this, you can simply refactor and your projects should still work in Google Chrome)
-  - install the linter configuration and lint your JavaScript style:
-    - add the `.eslintrc` file linked above to your project directory
+  - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)*
+    - familiarize yourself with the syntax of switch statements
+  - *DRY up your code*
+    - find areas where code is duplicated and break it out into a function
+  - *change for loops into `forEach`*
+    - you'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!
+  - *try out converting some ES5 syntax to ES6*
+    - you do not need to set up babel to do this, you can simply refactor and your projects should still work in Google Chrome
+  - *install the linter configuration and lint your JavaScript style*
+    - add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
     - from your terminal, within your project directory, run: `eslint ./index.js` (or whatever JavaScript file you want to lint)
     - read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error!
