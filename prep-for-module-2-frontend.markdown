@@ -23,6 +23,10 @@ And do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/le
 
 ## Linting
 
+In Mod 1, you were given general [style guides](https://github.com/turingschool-examples/javascript/tree/master/es5) for how you should be writing your code. In Mod 2, we're going to enforce a linter. A linter helps make sure that the way you write your JavaScript conforms to certain stylistic patterns and best practices.
+
+We'll be working with a tool called [eslint](https://eslint.org/), and your projects will be required to abide by the following [rules](https://github.com/turingschool-examples/javascript/blob/master/linters/module-2/non-react/.eslintrc).
+
 
 ## Debugging
 
@@ -39,7 +43,8 @@ Don't worry if the intricacies of these paradigms are still confusing, but try t
 
 
 ## Coding: Refactor Idea Box
-  - rewrite long, nested if/else statements into switch statements (read further here)
-  - DRY up your code (find areas where code is duplicated )
-  - change for loops into `forEach`
+  - rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+  - DRY up your code (find areas where code is duplicated and break it out into a function)
+  - change for loops into `forEach` (you'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!)
   - try out converting some ES5 syntax to ES6!
+  - install the linter configuration and lint your JavaScript style
