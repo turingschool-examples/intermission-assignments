@@ -37,15 +37,6 @@ Set yourself up with eslint by installing it with npm. In your terminal (from an
 While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
 
 
-## Programming Paradigms
-
-There are several different strategies you can take when architecting your JavaScript code (called "paradigms"). In mod 2, we'll be focusing on a pattern called "Object-Oriented Programming". Other paradigms you'll hear about are "Functional Programming" and "Procedural Programming". Read the following overviews on these paradigms:
-
-
-Don't worry if the intricacies of these paradigms are still confusing, but try to walk away with
-
-
-
 ## Coding: Refactor Mod 1 Projects
   - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)*
     - familiarize yourself with the syntax of switch statements
