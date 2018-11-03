@@ -19,7 +19,12 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
 
 ## NPM
 
-At the start of Turing, we had you do some computer setup that involved installing and downloading a slew of tools. This trend will continue! 
+At the start of Turing, we had you do some computer setup that involved installing and downloading a slew of tools. This trend will continue! You'll mostly be doing installations of "packages" through NPM. Familiarize yourself with:
+
+* what a package is, and what a package manager is
+* what information goes into a package.json file and why it's needed
+* the `npm init` and `npm install` commands
+* the difference between dependencies and devDependencies
 
 *(NPM Resources to come)*
 
