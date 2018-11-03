@@ -2,6 +2,20 @@
 
 
 
+## Babel & Evolution of JavaScript
+
+
+* what tools like Babel do for us and why we need them
+* how JavaScript evolves and how the web keeps up
+* differentiation between ES5, ES6, ES7, etc.
+
+*(Resources to come)*
+
+------------------------------------------------------
+
+
+
+
 ## JSON & Application Data
 
 In Mod 2 you'll be working with a lot of **application data**. Familiarize yourself with:
