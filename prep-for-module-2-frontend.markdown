@@ -4,12 +4,41 @@
 
 ## Babel & Evolution of JavaScript
 
+As the web becomes more advanced, the JavaScript language evolves and gains more features to support more complex browser capabilities. This is how we get newer versions of the language. In the current developer ecosystem, you'll hear people talking about ES5, ES6 and ES7 (E is for [ECMAScript](https://stackoverflow.com/questions/912479/what-is-the-difference-between-javascript-and-ecmascript).
 
-* what tools like Babel do for us and why we need them
-* how JavaScript evolves and how the web keeps up
-* differentiation between ES5, ES6, ES7, etc.
+In Mod 1, you mostly learned JavaScript syntax that was introduced with the ES5 version. This version is widely supported by modern browsers, and includes things like your standard `var` and `function` declarations. Browser developers are still working on supporting newer versions like ES6 and ES7.
 
-*(Resources to come)*
+You may have come across some ES6 syntax throughout your independent study (this includes variable declarations like `let` and `const`, arrow functions, and even Classes). In Mod 2, we'll expect you to begin to consistently use ES6 features and syntax where appropriate. Read more about the following ES6 features from [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
+
+- From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
+  * the entire chapter
+- From [Chapter 2: Strings](https://leanpub.com/understandinges6/read#leanpub-auto-template-literals), read:
+  * Template Literals
+- From [Chapter 3: Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions), read:
+  * Functions with Default Parameter Values
+  * The Spread Operator
+  * Arrow Functions
+- From [Chapter 4: Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality), read:
+  * Object Literal Syntax Extensions
+  * New Methods
+  * Duplicate Object Literal Properties
+- From [Chapter 5: Destructuring for Easier Data Access](https://leanpub.com/understandinges6/read#leanpub-auto-destructuring-for-easier-data-access), read:
+  * Why is Destructuring Useful?
+  * Object Destructuring
+  * Array Destructuring'
+- From [Chapter 10: Improved Array Capabilities](https://leanpub.com/understandinges6/read#leanpub-auto-improved-array-capabilities), read:
+  * Creating Arrays
+  * New Methods on All Arrays
+
+
+When talkin about different versions of JavaScript, you'll also hear about a tool called [Babel](https://babeljs.io/). Babel allows developers to use the latest and greatest JavaScript syntax, without having to worry about whether or not browsers support it yet. This works by taking any fancy ES6/ES7 code that you've written, and transpiling it down back to an older, more supported version before it reaches the browser. This transpilation process is pretty invisible to the developer, and allows you to keep yourself up-to-date with the latest language features without having to worry about your apps being broken in the browser.
+
+Walk through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/), which has you install Babel and should give some insight into what it's doing:
+  - `Setting Up Babel`
+  - `Using let Variables`
+  - `Using Destructuring`
+  - `Using Arrow Functions`
+
 
 ------------------------------------------------------
 
@@ -26,7 +55,7 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
   - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
   - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
-  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel
+  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
 
 ------------------------------------------------------
 
@@ -91,35 +120,3 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
     - add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
     - from your terminal, within your project directory, run: `eslint ./index.js` (or whatever JavaScript file you want to lint)
     - read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error!
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ## JavaScript
-
-We'll be introducing some new JavaScript syntax this module which we'd like you to familiarize yourself with. Read the following chapters of [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
-
-- [Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions)
-- [Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality)
-- [Destructuring for Easier Data Access](https://leanpub.com/understandinges6/read#leanpub-auto-destructuring-for-easier-data-access)
-- [Improved Array Capabilities](https://leanpub.com/understandinges6/read#leanpub-auto-improved-array-capabilities) (You're only expected to read the sections on "Creating Arrays" and "New Methods on All Arrays")
-
-Then go through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/):
-  - `Setting Up Babel`
-  - `Using let Variables`
-  - `Using Destructuring`
-  - `Using Arrow Functions`
-
-Set up a repl.it account by folowing the directions [here](https://gist.github.com/thatPamIAm/ec20e805e385cc2b423185ef26bed046) 
-
-And do the codecademy [ES6 Class Tutorial](https://www.codecademy.com/courses/learn-javascript-classes/lessons/classes/exercises/introduction)
- -->
