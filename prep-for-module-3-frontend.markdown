@@ -13,12 +13,12 @@
 
 Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop
 
+### React Router
+
+Read this Medium article for an into to React Router v4 (https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+
 ### Redux
 
-[**required**]  
-[Dan Abramov's Egghead Tutorial](https://egghead.io/courses/getting-started-with-redux)  
-
-[*optional*]  
 [The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0)  
 
 ### Mini JavaScript Tutorials
