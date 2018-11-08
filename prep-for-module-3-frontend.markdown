@@ -22,7 +22,6 @@ Read this Medium article for an into to React Router v4 (https://medium.com/@psh
 [The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0)  
 
 ### Mini JavaScript Tutorials
-[**required**]
 
 Many of you have probably gotten into [Wes Bos JavaScript30](https://javascript30.com) challenges. They are really great digestible pieces of functionality you can build with vanilla JS.
 
