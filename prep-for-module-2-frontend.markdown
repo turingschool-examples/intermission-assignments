@@ -24,7 +24,7 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
 -*The difference between JSON and a regular JavaScript object*
   - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
-  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
+  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
   - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
   - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel
 
