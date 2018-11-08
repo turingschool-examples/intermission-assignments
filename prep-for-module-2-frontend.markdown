@@ -8,7 +8,7 @@ As the web becomes more advanced, the JavaScript language evolves and gains more
 
 In Mod 1, you mostly learned JavaScript syntax that was introduced with the ES5 version. This version is widely supported by modern browsers, and includes things like your standard `var` and `function` declarations. Browser developers are still working on supporting newer versions like ES6 and ES7.
 
-You may have come across some ES6 syntax throughout your independent study (this includes variable declarations like `let` and `const`, arrow functions, and even Classes). In Mod 2, we'll expect you to begin to consistently use ES6 features and syntax where appropriate. Read more about the following ES6 features from [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
+You may have come across some ES6 syntax throughout your independent study (including variable declarations like `let` and `const`, arrow functions, and even Classes). In Mod 2, we'll expect you to begin to consistently use ES6 features and syntax where appropriate. Read more about the following ES6 features from [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
 
 - From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
   * the entire chapter
