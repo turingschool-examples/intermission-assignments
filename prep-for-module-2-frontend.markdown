@@ -20,7 +20,7 @@
 
 In Mod 2 you'll be working with a lot of **application data**. Familiarize yourself with:
 
--*What JSON is, why it exists, and where you might see it being used*
+-*What JSON is, why it exists, and where you might see it being used*  
 -*The difference between JSON and a regular JavaScript object*
   - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
