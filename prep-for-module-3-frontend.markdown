@@ -15,7 +15,7 @@ Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loo
 
 ### React Router
 
-Read this Medium article for an into to React Router v4 (https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+Read [this Medium article](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) for an into to React Router v4 
 
 ### Redux
 
