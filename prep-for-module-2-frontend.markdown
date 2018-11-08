@@ -72,9 +72,9 @@ At the start of Turing, we had you do some computer setup that involved installi
 
 Do some independent research on the above bullet points, then answer the following questions to the best of your ability and DM them to your instructors over the break. Your answers don't have to be formal or polished, we just want to see where your understanding is at after doing some initial research. It's ok if you feel fuzzy on the concepts, we will discuss them as a class Day 1. 
 
-* Why do package managers exist for front-end developers building web apps?
-* What is npm and what does it allow developers to do?
-* Describe what a 'dependency' is, and the difference between a devDependency and a regular dependency. Give an example of each. 
+* **Why do package managers exist for front-end developers building web apps?**
+* **What is npm and what does it allow developers to do?**
+* **Describe what a 'dependency' is, and the difference between a devDependency and a regular dependency. Give an example of each.**
 
 
 
