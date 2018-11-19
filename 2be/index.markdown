@@ -18,10 +18,10 @@
 
 ## Week 1 Lessons to review ahead of time
 
-1. [Intro to HTML](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/intro_to_html)
-1. [Intro to CSS](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/intro_to_css_and_bootstrap)
-1. [Intro to MVC](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/intro_to_mvc)
-1. [Intro to SQL](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/archive/introduction_to_sql)
+1. [Intro to HTML](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/intro_to_html.md)
+1. [Intro to CSS](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/intro_to_css_and_bootstrap.md)
+1. [Intro to MVC](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/intro_to_mvc.md)
+1. [Intro to SQL](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module2/lessons/archive/introduction_to_sql.md)
 
 ## Resources
 
