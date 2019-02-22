@@ -12,9 +12,20 @@ Be careful not to install Rails 5.2 by only doing `gem install rails` -- our cur
 
 ## Download PostgreSQL
 
-Download PostgreSQL from https://postgresapp.com/
+Download PostgreSQL from Homebrew.
 
-Follow the instructions on their site to install the application and run the database.
+From your terminal, run:
+
+```
+brew update
+brew install postgresql
+brew services start postgresql
+```
+[want to know a little more?](http://www.fyquah.me/setup-postgresql-on-os-x)
+
+After this step, try running `gem install pg -v 1.1.4` -- if that does not work for you try installing PostgreSQL from https://postgresapp.com/
+
+Follow the instructions on their site to install the application and run the database, then try `gem install pg -v 1.1.4` again.
 
 
 ## Install Chrome
