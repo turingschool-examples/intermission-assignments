@@ -23,10 +23,19 @@ brew services start postgresql
 ```
 [want to know a little more?](http://www.fyquah.me/setup-postgresql-on-os-x)
 
-After this step, try running `gem install pg -v 1.1.4` -- if that does not work for you try installing PostgreSQL from https://postgresapp.com/
+After this step, try running `gem install pg -v 1.1.4`
+
+#### Gem errors?
+If you get errors installing the "pg" gem, try installing PostgreSQL from https://postgresapp.com/
 
 Follow the instructions on their site to install the application and run the database, then try `gem install pg -v 1.1.4` again.
 
+
+## Install Postico
+
+https://eggerapps.at/postico/
+
+This is a tool that will make it much easier to navigate your local databases and build/run SQL commands.
 
 ## Install Chrome
 
