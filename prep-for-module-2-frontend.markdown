@@ -1,5 +1,40 @@
 # Module 2 Prep Work
 
+## jQuery 
+
+ jQuery is a JavaScript library that makes selecting and interacting with DOM elements easier by providing a shorter, more readable syntax for doing so. When we say that something is a “JavaScript library” we mean that it’s a pre-written collection of code that makes certain tasks easier for JavaScript developers. For example, when you wanted to select an element and change its inner text in plain old JavaScript, you would have to do something like so:  
+
+ ```js  
+let mooElement = document.getElementById(‘moo-cow’);  
+mooElement.innerText = ‘MOOOOO’;  
+``` 
+
+ With jQuery, we can accomplish the same thing with much less code: 
+
+ ```js  
+$(‘#moo-cow’).text(‘MOOOOO’); 
+``` 
+
+ You’ll be allowed (and encouraged) to use jQuery in your upcoming projects, so we would recommend familiarizing yourself with the library by doing the following reading and exercises:  
+
+ * Using jQuery Core: https://learn.jquery.com/using-jquery-core/ 
+    * document.ready()  
+    * Selecting Elements  
+    * Working with Selections 
+    * Manipulating Elements 
+    * Traversing  
+* CodeAcademy jQuery Course: https://www.codecademy.com/learn/learn-jquery  
+    * Introduction  
+    * Effects 
+    * Events  
+    * Traversing the DOM  
+* Take a Mod 1 project and incorporate the jQuery library. Refactor your DOM selections and interactions from plain JavaScript to jQuery. 
+
+
+------------------------------------------------------
+
+
+
 ## Babel & Evolution of JavaScript
 
 As the web becomes more advanced, the JavaScript language evolves and gains more features to support more complex browser capabilities. This is how we get newer versions of the language. In the current developer ecosystem, you'll hear people talking about ES5, ES6 and ES7 (E is for [ECMAScript](https://stackoverflow.com/questions/912479/what-is-the-difference-between-javascript-and-ecmascript).
