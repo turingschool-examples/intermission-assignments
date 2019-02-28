@@ -1,5 +1,12 @@
 # Module 2 Prep Work
 
+
+## Solidifying & Building on Mod 1 Concepts
+
+Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d5Vdx4r4iGCaZ3mpUm4n3SJVaPI9lqVpp5W_epU/edit#) that you can edit.  This document is full of reading and practice exercises. The topics covered here should be some Mod 1 review, along with some new emphasis that will prepare you for Mod 2. You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
+
+
+
 ## jQuery 
 
  jQuery is a JavaScript library that makes selecting and interacting with DOM elements easier by providing a shorter, more readable syntax for doing so. When we say that something is a “JavaScript library” we mean that it’s a pre-written collection of code that makes certain tasks easier for JavaScript developers. For example, when you wanted to select an element and change its inner text in plain old JavaScript, you would have to do something like so:  
