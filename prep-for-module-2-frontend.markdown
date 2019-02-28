@@ -1,38 +1,5 @@
 # Module 2 Prep Work
 
-## jQuery
-
-jQuery is a JavaScript library that makes selecting and interacting with DOM elements easier by providing a shorter, more readable syntax for doing so. When we say that something is a “JavaScript library” we mean that it’s a pre-written collection of code that makes certain tasks easier for JavaScript developers. For example, when you wanted to select an element and change its inner text in plain old JavaScript, you would have to do something like so:
-
-```js
-let mooElement = document.getElementById(‘moo-cow’);
-mooElement.innerText = ‘MOOOOO’;
-```
-
-With jQuery, we can accomplish the same thing with much less code:
-
-```js
-$(‘#moo-cow’).text(‘MOOOOO’);
-```
-
-You’ll be allowed (and encouraged) to use jQuery in your upcoming projects, so we would recommend familiarizing yourself with the library by doing the following reading and exercises:
-
-* Using jQuery Core: https://learn.jquery.com/using-jquery-core/
-    * document.ready()
-    * Selecting Elements
-    * Working with Selections
-    * Manipulating Elements
-    * Traversing
-* CodeAcademy jQuery Course: https://www.codecademy.com/learn/learn-jquery
-    * Introduction
-    * Effects
-    * Events
-    * Traversing the DOM
-* Take a Mod 1 project and incorporate the jQuery library. Refactor your DOM selections and interactions from plain JavaScript to jQuery.
-
-
-
-
 ## Babel & Evolution of JavaScript
 
 As the web becomes more advanced, the JavaScript language evolves and gains more features to support more complex browser capabilities. This is how we get newer versions of the language. In the current developer ecosystem, you'll hear people talking about ES5, ES6 and ES7 (E is for [ECMAScript](https://stackoverflow.com/questions/912479/what-is-the-difference-between-javascript-and-ecmascript).
@@ -75,7 +42,6 @@ Walk through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/), whi
 
 
 
-
 ## JSON & Application Data
 
 In Mod 2 you'll be working with a lot of **application data**. Familiarize yourself with:
@@ -90,6 +56,7 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
 
 ------------------------------------------------------
 
+<!-- 
 
 
 ## NPM
@@ -109,7 +76,7 @@ Do some independent research on the above bullet points, then answer the followi
 
 
 
-------------------------------------------------------
+------------------------------------------------------ -->
 
 
 
@@ -155,3 +122,10 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
     - add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
     - from your terminal, within your project directory, run: `eslint ./index.js` (or whatever JavaScript file you want to lint)
     - read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error!
+
+
+## CodeWars
+
+If you haven't already, sign up for an account at [Codewars](https://www.codewars.com). You'll want to make doing these exercises a regular part of your practice _outside_ of the work that you are doing on projects. It is recommended that you start by filtering the exercises (Katas) so that you are coding at a Level 8. As you progress you should move into Levels 6 & 7. By the end of the module, the expectation is that you can work through what is considered the equivalent of a level 7 exercise. Doing these exercises will you give you the additional reps that are necessary to take the content that is learned in class and apply it in a different context - thus, solidifying your learning.
+
+Please DM your CodeWars handle to all 3 instructors before intermission begins.
