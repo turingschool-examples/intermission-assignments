@@ -3,7 +3,9 @@
 
 ## Solidifying & Building on Mod 1 Concepts
 
-Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d5Vdx4r4iGCaZ3mpUm4n3SJVaPI9lqVpp5W_epU/edit#) that you can edit.  This document is full of reading and practice exercises. The topics covered here should be some Mod 1 review, along with some new emphasis that will prepare you for Mod 2. You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
+Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d5Vdx4r4iGCaZ3mpUm4n3SJVaPI9lqVpp5W_epU/edit#) that you can edit.  This document contains some reading material and practice exercises that will help you solidify important concepts from Mod 1. Some information might be new to you, some might be review.
+
+You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
 
 
 
