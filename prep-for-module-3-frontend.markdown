@@ -15,10 +15,6 @@
 * Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop
 * Read [ajax in react](https://reactjs.org/docs/faq-ajax.html)
 
-### Testing Practice
-
-[ThoughtBox](https://github.com/turingschool-examples/thought-box-mini-project)
-
 ### React Router
 
 Read [this Medium article](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) for an into to React Router v4 
