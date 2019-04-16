@@ -4,7 +4,8 @@
 
 1. To refamiliarize yourself with the HTTP request-response cycle, [watch this video](https://www.youtube.com/watch?v=eesqK59rhGA).
 1. Read Eloquent JavaScript: [Chapter 17 - HTTP](http://eloquentjavascript.net/17_http.html) and [Chapter 20 - Node.js](http://eloquentjavascript.net/20_node.html). The exercises at the end of the chapters are great practice (your answers to these exercises will not be collected).
-1. Read through this [cover letter checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) in preparation for your M4 professional development curriculum.
+1. Complete a cover letter for Day 1 of Mod 4 using this [cover letter checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) in preparation for your M4 professional development curriculum.
+**Deliverable:** Have your cover letter ready for the first PD session in Week 1.
 1. Complete this [lesson on writing a Node HTTP server](http://frontend.turing.io/lessons/module-4/node-prework.html) - **Deliverable:** Walk through the lesson and code along; finish the functions `getAllMessages` and `addMessage` at the end of the lesson.
 1. Annotate your M3 Trapper Keeper Express server file line by line, explaining in detail what each piece is doing. - **Deliverable:** Push the annotated server file up in a branch and add a link to that file.
 1. Watch [this video on RESTful APIs](https://www.youtube.com/watch?v=SLwpqD8n3d0), and then read these things [about RESTful API design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9). You'll be building your own RESTful APIs from scratch this module.
