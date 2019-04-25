@@ -1,5 +1,5 @@
 # Module 2 Prep Work
-
+*It is Recommended you make a copy of this [Trello Board](https://trello.com/b/OHcN74KI/pre-work-for-mod-2-public) to keep track of what you have accomplished.*
 
 ## Solidifying & Building on Mod 1 Concepts
 
