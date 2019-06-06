@@ -23,11 +23,6 @@
 
 Read [this Medium article](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) for an into to React Router v4 
 
-### Redux
-
-* [The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0)
-* [The redux tutorial from the docs](https://redux.js.org/basics/basic-tutorial)
-
 ## PD Pre-Work for Mod 3
 
 Objective: Create an Interview Prep System
