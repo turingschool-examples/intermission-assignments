@@ -51,3 +51,8 @@ Here are some podcasts and videos to listen to and watch respectively:
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
 - [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
+
+<!-- ### Redux -->
+
+<!-- * [The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0) -->
+<!-- * [The redux tutorial from the docs](https://redux.js.org/basics/basic-tutorial) -->
