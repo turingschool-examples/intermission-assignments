@@ -154,18 +154,18 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
 
 ## Coding: Refactor Mod 1 Projects
 
-  - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)*
-    - familiarize yourself with the syntax of switch statements
+  - Familiarize yourself with the syntax of switch statements - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) if possible*
   - *DRY up your code*
-    - find areas where code is duplicated and break it out into a function
-  - *change for loops into `forEach`*
-    - you'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!
-  - *try out converting some ES5 syntax to ES6*
-    - you do not need to set up babel to do this, you can simply refactor and your projects should still work in Google Chrome
-  - *install the linter configuration and lint your JavaScript style*
-    - add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
-    - from your terminal, within your project directory, run: `eslint ./index.js` (or whatever JavaScript file you want to lint)
-    - read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error!
+    - Find areas where code is duplicated and break it out into a function
+  - *Change for loops into `forEach`*
+    - You'll be working with a lot of Array iterator methods in Mod 2 like [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), start practicing them now!
+    - Focus on: `forEach`, `map`, `filter`, `find`, `sort`, and `reduce`
+  - *Try out converting some ES5 syntax to ES6*
+    - You can refactor and your projects they should still work in Google Chrome
+  - *Install the linter configuration and lint your JavaScript style*
+    - Add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
+    - From your terminal, within your project directory, run: `eslint ./index.js` (or the path to whatever JavaScript file you want to lint)
+    - Read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error.
 
 
 ## CodeWars
