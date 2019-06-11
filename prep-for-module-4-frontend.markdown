@@ -14,6 +14,6 @@
 
 ## Prework Submission
 
-You are expected to have the prework completed by day one of module 4. For the items marked as **Deliverable**, you will submit links to your finished work to a homework submission file. [This is the homework submission file](https://github.com/turingschool/front-end-submissions-public/blob/master/1811/mod-4/prework-submissions.md).
+You are expected to have the prework completed by day one of module 4. For the items marked as **Deliverable**, you will submit links to your finished work to a homework submission file. [This is the homework submission file](https://github.com/turingschool/front-end-submissions-public/blob/master/1901/mod-4/prework-submissions.md).
 
 To submit your prework assignments, make a pull request to add links to your finished work under your name.
