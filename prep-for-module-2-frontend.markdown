@@ -44,7 +44,7 @@ $(‘#moo-cow’).text(‘MOOOOO’);
 
 
 
-## Babel & Evolution of JavaScript
+## ES6 & Evolution of JavaScript
 
 As the web becomes more advanced, the JavaScript language evolves and gains more features to support more complex browser capabilities. This is how we get newer versions of the language. In the current developer ecosystem, you'll hear people talking about ES5, ES6 and ES7 (E is for [ECMAScript](https://stackoverflow.com/questions/912479/what-is-the-difference-between-javascript-and-ecmascript).
 
@@ -90,29 +90,6 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
   - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
 
 ------------------------------------------------------
-
-<!-- 
-
-
-## NPM
-
-At the start of Turing, we had you do some computer setup that involved installing and downloading a slew of tools. This trend will continue! You'll mostly be doing installations of "packages" through NPM. Familiarize yourself with:
-
-* *what a package is, and what a package manager is*
-* *what information goes into a package.json file and why it's needed*
-* *the `npm init` and `npm install` commands*
-* *the difference between dependencies and devDependencies*
-
-Do some independent research on the above bullet points, then answer the following questions to the best of your ability and DM them to your instructors over the break. Your answers don't have to be formal or polished, we just want to see where your understanding is at after doing some initial research. It's ok if you feel fuzzy on the concepts, we will discuss them as a class Day 1. 
-
-* **Why do package managers exist for front-end developers building web apps?**
-* **What is npm and what does it allow developers to do?**
-* **Describe what a 'dependency' is, and the difference between a devDependency and a regular dependency. Give an example of each.**
-
-
-
------------------------------------------------------- -->
-
 
 
 ## Linting
