@@ -73,15 +73,6 @@ You may have come across some ES6 syntax throughout your independent study (incl
   * New Methods on All Arrays
 
 
-When talking about different versions of JavaScript, you'll also hear about a tool called [Babel](https://babeljs.io/). Babel allows developers to use the latest and greatest JavaScript syntax, without having to worry about whether or not browsers support it yet. This works by taking any fancy ES6/ES7 code that you've written, and transpiling it down back to an older, more supported version before it reaches the browser. This transpilation process is pretty invisible to the developer, and allows you to keep yourself up-to-date with the latest language features without having to worry about your apps being broken in the browser.
-
-Walk through this [ES6 Tutorial](http://ccoenraets.github.io/es6-tutorial/), which has you install Babel and should give some insight into what it's doing:
-  - `Setting Up Babel`
-  - `Using let Variables`
-  - `Using Destructuring`
-  - `Using Arrow Functions`
-
-
 ------------------------------------------------------
 
 
