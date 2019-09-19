@@ -54,20 +54,13 @@ You may have come across some ES6 syntax throughout your independent study (incl
 
 - From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
   * the entire chapter
-- From [Chapter 2: Strings](https://leanpub.com/understandinges6/read#leanpub-auto-template-literals), read:
-  * Template Literals
 - From [Chapter 3: Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions), read:
   * Functions with Default Parameter Values
-  * The Spread Operator
   * Arrow Functions
 - From [Chapter 4: Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality), read:
   * Object Literal Syntax Extensions
   * New Methods
   * Duplicate Object Literal Properties
-- From [Chapter 5: Destructuring for Easier Data Access](https://leanpub.com/understandinges6/read#leanpub-auto-destructuring-for-easier-data-access), read:
-  * Why is Destructuring Useful?
-  * Object Destructuring
-  * Array Destructuring'
 - From [Chapter 10: Improved Array Capabilities](https://leanpub.com/understandinges6/read#leanpub-auto-improved-array-capabilities), read:
   * Creating Arrays
   * New Methods on All Arrays
@@ -86,8 +79,7 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
   - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
   - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
-  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser 
-  - Create your own JSON dataset (referencing the above resources as needed) and post it in your Slack channel for feedback
+  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser
 
 ------------------------------------------------------
 
