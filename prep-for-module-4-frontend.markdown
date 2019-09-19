@@ -10,6 +10,8 @@
 5. Watch [this video on RESTful APIs](https://www.youtube.com/watch?v=SLwpqD8n3d0), and then read these things [about RESTful API design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9). You'll be building your own RESTful APIs from scratch this module.
 6. Read about and practice writing [Promises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab) - **Deliverable:** Write your own promises in the "Promise Approach: On Your Own" section. Create this in a [REPL](https://repl.it/).
 7. Refresh your familiarity with the git rebase workflow (you might need to use this on projects in module 4). Read this article on [git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) and this article on [merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing). Your open source project this module might require you to use a rebase workflow instead of merge.
+8. Complete this lesson/workshop for [webscraping](https://frontend.turing.io/lessons/module-4/web-scraping-workshop.html) - **Deliverable:** Link to your completed repo for the webscraping workshop.
+
 
 ## Prework Submission
 
