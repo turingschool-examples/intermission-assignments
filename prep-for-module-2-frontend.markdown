@@ -8,38 +8,6 @@ Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d
 You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
 
 
-
-## jQuery 
-
- jQuery is a JavaScript library that makes selecting and interacting with DOM elements easier by providing a shorter, more readable syntax for doing so. When we say that something is a “JavaScript library” we mean that it’s a pre-written collection of code that makes certain tasks easier for JavaScript developers. For example, when you wanted to select an element and change its inner text in plain old JavaScript, you would have to do something like so:  
-
- ```js  
-let mooElement = document.getElementById(‘moo-cow’);  
-mooElement.innerText = ‘MOOOOO’;  
-``` 
-
- With jQuery, we can accomplish the same thing with much less code: 
-
- ```js  
-$(‘#moo-cow’).text(‘MOOOOO’); 
-``` 
-
- You’ll be allowed (and encouraged) to use jQuery in your upcoming projects, so we would recommend familiarizing yourself with the library by doing the following reading and exercises:  
-
- * Using jQuery Core: https://learn.jquery.com/using-jquery-core/ 
-    * document.ready()  
-    * Selecting Elements  
-    * Working with Selections 
-    * Manipulating Elements 
-    * Traversing  
-* CodeAcademy jQuery Course: https://www.codecademy.com/learn/learn-jquery  
-    * Introduction  
-    * Effects 
-    * Events  
-    * Traversing the DOM  
-* Take a Mod 1 project and incorporate the jQuery library. Refactor your DOM selections and interactions from plain JavaScript to jQuery. 
-
-
 ------------------------------------------------------
 
 
@@ -59,18 +27,13 @@ You may have come across some ES6 syntax throughout your independent study (incl
   * Arrow Functions
 - From [Chapter 4: Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality), read:
   * Object Literal Syntax Extensions
-  * New Methods
-  * Duplicate Object Literal Properties
-- From [Chapter 10: Improved Array Capabilities](https://leanpub.com/understandinges6/read#leanpub-auto-improved-array-capabilities), read:
-  * Creating Arrays
-  * New Methods on All Arrays
 
 
 ------------------------------------------------------
 
 
 
-## JSON & Application Data
+<!-- ## JSON & Application Data
 
 In Mod 2 you'll be working with a lot of **application data**. Familiarize yourself with:
 
@@ -79,7 +42,7 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
   - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
   - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
-  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser
+  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser -->
 
 ------------------------------------------------------
 
