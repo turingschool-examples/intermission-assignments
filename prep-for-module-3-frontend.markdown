@@ -17,7 +17,7 @@
 
 * Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop
 * Read [ajax in react](https://reactjs.org/docs/faq-ajax.html)
-* Watch [this video](https://www.youtube.com/watch?v=72snZctFFtA) on DNS and the request/response cycle
+* Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle
 
 ### React Router
 
