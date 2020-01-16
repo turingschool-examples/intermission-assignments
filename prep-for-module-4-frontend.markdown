@@ -12,10 +12,11 @@
 7. Refresh your familiarity with the git rebase workflow (you might need to use this on projects in module 4). Read this article on [git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) and this article on [merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing). Your open source project this module might require you to use a rebase workflow instead of merge.
 8. Complete this lesson/workshop for [webscraping](https://frontend.turing.io/lessons/module-4/web-scraping-workshop.html) - **Deliverable:** Link to your completed repo for the webscraping workshop.
 9. Submit you M4 Gear Up Lightning Talk [here](https://forms.gle/35dWc1qJyGD4gcVU7)
+10. Read through the React documentation on [Hooks](https://reactjs.org/docs/hooks-intro.html). Build an idea Box using Hooks. You might check additional resources like [CSS Tricks](https://css-tricks.com/intro-to-react-hooks/) and this detailed explanation of [Hooks](https://www.valentinog.com/blog/hooks/) 
 
 
 ## Prework Submission
 
-You are expected to have the prework completed by day one of module 4. For the items marked as **Deliverable**, you will submit links to your finished work to a homework submission file. [This is the homework submission file](https://github.com/turingschool/front-end-submissions-public/blob/master/1906/mod-4/prework-submissions.md).
+You are expected to have the prework completed by day one of module 4. For the items marked as **Deliverable**, you will submit links to your finished work to a homework submission file. [This is the homework submission file](https://github.com/turingschool/front-end-submissions-public/blob/master/1908/mod-4/prework-submissions.md).
 
 To submit your prework assignments, make a pull request to add links to your finished work under your name.
