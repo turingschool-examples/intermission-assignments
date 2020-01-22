@@ -21,7 +21,7 @@
 
 ### React Router
 
-Read [this Medium article](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) for an into to React Router v4 
+Read [this blog post](https://blog.pshrmn.com/simple-react-router-v4-tutorial/) for an into to React Router v4 
 
 ## Professional Development Pre-Work for Mod 3
 
