@@ -2,12 +2,14 @@
 
 ## Instructional Pre-Work for Mod 3
 
-### Frameworks
+### Libraries and Frameworks
 
 * What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
 * Why would we want to use a framework? [Read this article.](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 
-There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach the JavaScript framwork called **React** - it's one of the most popular frameworks out there. Go through these resources to get started learning your first JavaScript framework!
+There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
+
+Go through these resources to get started learning some React!
 
 * Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
