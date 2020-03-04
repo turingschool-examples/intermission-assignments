@@ -30,7 +30,14 @@ Workflow is something you will deal with every day on the job. Let's continue st
 
 ## Instructional Deliverables (Due Friday 5pm of Intermission Week)
 
-* List of deliverables.
+Create a gist to answer these questions:
+
+* What is a "framework?" And how does it differ from a "library?"
+* Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
+* What is a "component" in React? Why is it useful to have components?
+* What are React "props?"
+* What is React "state?"
+* What does "data down, actions up" mean in React?
 
 ### Extra
 [*optional*]
