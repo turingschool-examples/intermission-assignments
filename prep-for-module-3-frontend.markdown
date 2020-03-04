@@ -2,26 +2,46 @@
 
 ## Instructional Pre-Work for Mod 3
 
-### GitHub
+### Frameworks
+
+* What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
+* Why would we want to use a framework? [Read this article.](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
+
+There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach the JavaScript framwork called **React** - it's one of the most popular frameworks out there. Go through these resources to get started learning your first JavaScript framework!
+
+* Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
+* Optional: practice building an IdeaBox in React. Think of a mod 1 project, and build that in React!
+
+### Asynchronous JavaScript
+
+We will continue to work with asynchronous JavaScript, mainly when we use network requests to get data from servers (like using the `fetch`). We will go in depth with asynchronous JavaScript, including how to test it in mod 3.
+
+* Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
+* Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
+* Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
+
+### WorkFlow
+
+Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
 
 * Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
 * Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 
-### React
+## Instructional Deliverables (Due Friday 5pm of Intermission Week)
 
-* Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-* Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
-* Optional: practice building IdeaBox in React
+* List of deliverables.
 
-### Asynchronous JavaScript
+### Extra
+[*optional*]
 
-* Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop
-* Read [ajax in react](https://reactjs.org/docs/faq-ajax.html)
-* Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle
+Here are some podcasts and videos to listen to and watch respectively:
 
-### React Router
+- [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
+- [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
+- [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
+- [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
 
-Read [this Medium article](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) for an into to React Router v4 
 
 ## Professional Development Pre-Work for Mod 3
 
@@ -40,19 +60,3 @@ You may be asked to show or discuss your interview prep process with Allison, Ka
 * Reach out to one of the mentors listed in the Interview Prep Resources markdown to set up a mock technical interview 
 * Complete a mock interview on Pramp
 * Set up whiteboarding practice to go through specific code problems listed in the markdown
-
-
-## Extra
-[*optional*]
-
-Here are some podcasts and videos to listen to and watch respectively:
-
-- [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
-- [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
-- [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
-- [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
-
-<!-- ### Redux -->
-
-<!-- * [The New Boston Redux Tutorial](https://www.youtube.com/watch?v=DiLVAXlVYR0) -->
-<!-- * [The redux tutorial from the docs](https://redux.js.org/basics/basic-tutorial) -->
