@@ -30,7 +30,7 @@ Workflow is something you will deal with every day on the job. Let's continue st
 
 ## Instructional Deliverables (Due Friday 5pm of Intermission Week)
 
-Create a gist to answer these questions:
+Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
 * What is a "framework?" And how does it differ from a "library?"
 * Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
@@ -38,6 +38,8 @@ Create a gist to answer these questions:
 * What are React "props?"
 * What is React "state?"
 * What does "data down, actions up" mean in React?
+
+**Before the due date, send a link to your gist to both of your instructors.**
 
 ### Extra
 [*optional*]
