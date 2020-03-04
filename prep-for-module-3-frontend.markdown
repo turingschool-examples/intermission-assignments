@@ -30,6 +30,7 @@ Workflow is something you will deal with every day on the job. Let's continue st
 * Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
 * Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 
+<div style="background-color=#DDD">
 ## Instructional Deliverables (Due Friday 5pm of Intermission Week)
 
 Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
@@ -44,6 +45,7 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We will not use hooks in mod 3.
 
 **Before the due date, send a link to your gist to both of your instructors.**
+</div>
 
 ### Extra
 [*optional*]
