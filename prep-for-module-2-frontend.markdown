@@ -5,12 +5,9 @@
 
 Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d5Vdx4r4iGCaZ3mpUm4n3SJVaPI9lqVpp5W_epU/edit#) that you can edit.  This document contains some reading material and practice exercises that will help you solidify important concepts from Mod 1. Some information might be new to you, some might be review.
 
-You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
-
+You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **If you are unsure of any of your answers, take note of it. You should have this completed (along with any notes) to bring with you on Day 1 of Mod 2. We will discuss concepts the first day.**
 
 ------------------------------------------------------
-
-
 
 ## ES6 & Evolution of JavaScript
 
@@ -94,5 +91,3 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
 ## CodeWars
 
 If you haven't already, sign up for an account at [Codewars](https://www.codewars.com). You'll want to make doing these exercises a regular part of your practice _outside_ of the work that you are doing on projects. It is recommended that you start by filtering the exercises (Katas) so that you are coding at a Level 8. As you progress you should move into Levels 6 & 7. By the end of the module, the expectation is that you can work through what is considered the equivalent of a level 7 exercise. Doing these exercises will you give you the additional reps that are necessary to take the content that is learned in class and apply it in a different context - thus, solidifying your learning.
-
-Please DM your CodeWars handle to all 3 instructors before intermission begins.
