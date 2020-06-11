@@ -30,6 +30,19 @@ Workflow is something you will deal with every day on the job. Let's continue st
 * Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
 * Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 
+### Tooling 
+
+You'll need to make sure you've got the Xcode Command Line Tools before the mod starts. The CLT are necessary for many of React's dependencies to work as expected. 
+
+```bash
+# to see whether you have the CLT, run:
+xcode-select -v
+
+# If you don't have the CLT, run:
+xcode-select --install
+
+```
+
 ## Instructional Deliverables (Due Friday 5pm of Intermission Week)
 
 Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
