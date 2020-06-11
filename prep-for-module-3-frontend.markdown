@@ -13,6 +13,7 @@ Go through these resources to get started learning some React!
 
 * Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
+* Take a deeper dive into JSX with the [React docs](https://reactjs.org/docs/introducing-jsx.html) and this [tutorial](https://flaviocopes.com/jsx/)
 * Optional: practice building an IdeaBox in React. Think of a mod 1 project, and build that in React!
 
 ### Asynchronous JavaScript
@@ -43,13 +44,14 @@ xcode-select --install
 
 ```
 
-## Instructional Deliverables (Due Friday 5pm of Intermission Week)
+## Instructional Deliverables (Due Last Friday 5pm of Intermission Week)
 
 Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
 * What is a "framework?" And how does it differ from a "library?"
 * Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
 * What is a "component" in React? Why is it useful to have components?
+* What is JSX?
 * What are React "props?"
 * What is React "state?"
 * What does "data down, actions up" mean in React?
@@ -65,6 +67,7 @@ Here are some podcasts and videos to listen to and watch respectively:
 
 - [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
+- [Intro to JS Modules](https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/) (Ever been confused about `module.exports` vs `export default`? When to use `import` vs `require()`? Read this for some clarity)
 - [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
 
