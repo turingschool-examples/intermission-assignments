@@ -27,6 +27,14 @@ We will continue to work with asynchronous JavaScript, mainly when we use networ
 * Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
 * Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
 
+### Testing paradigms
+
+We are going to learn a new type of testing! In Mods 1 and 2, you learned about unit testing (testing a single function or class) and integration testing (testing multiple functions/classes working together). In Mod 3, we are going to explore "end-to-end" (sometimes called E2E) testing!
+
+* Read [this blog post](https://www.guru99.com/end-to-end-testing.html) for a high level overview of E2E
+* Watch [this video](https://youtu.be/Fw98L-kcRpc) to learn about "user stories" in agile workflows - this will help us figure out how to write our E2E tests!
+* Practice writing user stories by creating some user stories for a Mod 2 or Mod 1 project!
+
 ### WorkFlow
 
 Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
@@ -60,11 +68,17 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 * What is React "state?"
 * What does "data down, actions up" mean in React?
 
-_Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We will not use hooks in mod 3.
+_Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
-**Before the due date, send a link to your gist to both of your instructors.**
+**Before the due date, send a link to your gist in a DM to _both_ of your instructors.**
 
-### Extra
+## Professional Development Pre-Work and Deliverables
+
+[You can find all of the instructions here!](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
+
+--- 
+
+### Instructional Extras
 [*optional*]
 
 Here are some podcasts and videos to listen to and watch respectively:
@@ -75,8 +89,3 @@ Here are some podcasts and videos to listen to and watch respectively:
 - [NPM Refresher](https://ui.dev/npm/) (We're going to be using a lot of packages, make sure you're comfortable with your pakcage manager!)
 - [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
-
-
-## Professional Development Pre-Work for Mod 3
-
-[You can find all of the instructions here!](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
