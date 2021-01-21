@@ -15,9 +15,9 @@ Go through these resources to get started learning some React!
 * Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
 * Take a deeper dive into JSX with the [React docs](https://reactjs.org/docs/introducing-jsx.html) and this [tutorial](https://flaviocopes.com/jsx/)
 * Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)
-* Optional: practice building an IdeaBox in React. Think of a mod 1 project, and build that in React!
+* Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React!
 
-We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and poke around!
+We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
 
 ### Asynchronous JavaScript
 
