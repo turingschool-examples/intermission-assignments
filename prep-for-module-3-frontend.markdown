@@ -17,6 +17,8 @@ Go through these resources to get started learning some React!
 * Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)
 * Optional: practice building an IdeaBox in React. Think of a mod 1 project, and build that in React!
 
+We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and poke around!
+
 ### Asynchronous JavaScript
 
 We will continue to work with asynchronous JavaScript, mainly when we use network requests to get data from servers (like using the `fetch`). We will go in depth with asynchronous JavaScript, including how to test it in mod 3.
