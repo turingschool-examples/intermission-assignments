@@ -9,7 +9,7 @@ Also, please make a fresh copy of [this google doc](https://docs.google.com/docu
 
 You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **If you are unsure of any of your answers, take note of it. You should have this completed (along with any notes) to bring with you on Day 1 of Mod 2. We will discuss concepts the first day.**
 
-**After you've completed the exercises in the google doc, please submit your link [here](https://docs.google.com/spreadsheets/d/1WmknP_wLCB7hp8ntk5Gr3AP4FE8I2Yn8wCZfbNHTJt4/edit#gid=0)**
+**After you've completed the exercises in the google doc, please submit your link [here](https://docs.google.com/spreadsheets/d/1WmknP_wLCB7hp8ntk5Gr3AP4FE8I2Yn8wCZfbNHTJt4/edit#gid=0)** (Please also make sure you allow us permissions to view it!)
 
 ------------------------------------------------------
 
