@@ -35,7 +35,7 @@ We are going to learn a new type of testing! In Mods 1 and 2, you learned about 
 * Watch [this video](https://youtu.be/Fw98L-kcRpc) to learn about "user stories" in agile workflows - this will help us figure out how to write our E2E tests!
 * Practice writing user stories by creating some user stories for a Mod 2 or Mod 1 project
 
-### WorkFlow
+### Workflow
 
 Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
 
@@ -54,6 +54,14 @@ xcode-select -v
 xcode-select --install
 
 ```
+
+### Habits
+
+In Mod 3, you'll begin building up the habits you'll take with you beyond Turing. Track your schedule and learning process over break! 
+
+- When do you work most effectively? The morning? The afternoon? The evening? 
+- While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
+- What are some daily routines you need to keep up in order to be well-rested and able to learn?
 
 ## Instructional Deliverables (Due Last Friday 5pm of Intermission Week)
 
