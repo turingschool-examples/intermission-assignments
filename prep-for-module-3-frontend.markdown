@@ -80,12 +80,6 @@ _Note:_ As you do your research, stay away from React articles that talk exclusi
 
 **Before the due date, send a link to your gist in a DM to _both_ of your instructors.**
 
-## Professional Development Pre-Work and Deliverables
-
-[You can find all of the instructions here!](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
-
---- 
-
 ### Instructional Extras
 [*optional*]
 
