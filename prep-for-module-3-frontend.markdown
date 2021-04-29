@@ -81,7 +81,7 @@ _Note:_ As you do your research, stay away from React articles that talk exclusi
 ### Instructional Extras
 [*optional*]
 
-Here are some podcasts and videos to listen to and watch respectively:
+Here are some additional resources:
 
 - [Free Scrimba React Course](https://scrimba.com/learn/learnreact) (A good introductory overview of basic React!)
 - [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
