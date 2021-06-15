@@ -32,7 +32,12 @@ You may have come across some ES6 syntax throughout your independent study (incl
 
 ------------------------------------------------------
 
+## User Experience
 
+Its important to consider how users will be interacting with our applications. Review this [Intro to UI/UX lesson](https://frontend.turing.edu/lessons/module-2/intro-ui-ux-empathy-in-design.html). In M2 we will be learning about the user experience in terms of accessibility. This will give you a great introduction in thinking about your future users. 
+
+
+------------------------------------------------------
 
 <!-- ## JSON & Application Data
 
