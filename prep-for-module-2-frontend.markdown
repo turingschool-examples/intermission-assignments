@@ -32,10 +32,9 @@ You may have come across some ES6 syntax throughout your independent study (incl
 
 ------------------------------------------------------
 
-## User Experience
+## User Interface & User Experience (UI/UX)
 
 Its important to consider how users will be interacting with our applications. Review this [Intro to UI/UX lesson](https://frontend.turing.edu/lessons/module-2/intro-ui-ux-empathy-in-design.html). In M2 we will be learning about the user experience in terms of accessibility. This will give you a great introduction in thinking about your future users. 
-
 
 ------------------------------------------------------
 
@@ -49,9 +48,6 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
 ) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
   - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
   - Install the Chrome Extension `JSONView` to make JSON more readable in the browser -->
-
-------------------------------------------------------
-
 
 ## Linting
 
