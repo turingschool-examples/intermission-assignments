@@ -29,6 +29,7 @@ You may have come across some ES6 syntax throughout your independent study (incl
 - From [Chapter 4: Expanded Object Functionality](https://leanpub.com/understandinges6/read#leanpub-auto-expanded-object-functionality), read:
   * Object Literal Syntax Extensions
 
+- _Optional_ - Review this "nice to know" [lesson on Destructuring](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html). Not neccessary for success in M2, but can give you more ways to work with complex data!
 
 ------------------------------------------------------
 
