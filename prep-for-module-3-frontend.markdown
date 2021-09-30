@@ -95,11 +95,11 @@ Please update your LinkedIn profiles with...
 
 [Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
 
-### 3. Instructional Extras *(optional)*
+### 3. Extras *(optional)*
 
 Here are some additional resources:
 
-- [Free Scrimba React Course](https://scrimba.com/learn/learnreact) (A good introductory overview of basic React!)
+- [Free Scrimba React Course](https://scrimba.com/learn/learnreact) (*recommended!* A good introductory overview of basic React!)
 - [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
 - [Intro to JS Modules](https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/) (Ever been confused about `module.exports` vs `export default`? When to use `import` vs `require()`? Read this for some clarity)
