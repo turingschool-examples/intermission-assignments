@@ -68,8 +68,9 @@ In Mod 3, you'll begin building up the habits you'll take with you beyond Turing
 - While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
 - What are some daily routines you need to keep up in order to be well-rested and able to learn?
 
-## Instructional Deliverables (Due Last Friday 5pm of Intermission Week)
+## Deliverables 
 
+### 1. React Review (Due Last Friday 5pm of Intermission Week)
 Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
 * What is a "data model", and how does it relate to the DOM in a front-end application?
@@ -84,6 +85,15 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
 **Before the due date, send a link to your gist in a DM to _both_ of your instructors.**
+
+### 2. LinkedIn Updates
+Please update your LinkedIn profiles with...  
+* additional skills that you’ve learned since Mod 1
+* ensure you have technical keywords in your About Me professional story
+* take “student” out of your headline if it’s there 
+* any other updates needed to get your LinkedIn optimized for your job search  
+
+[Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
 
 ### Instructional Extras
 [*optional*]
