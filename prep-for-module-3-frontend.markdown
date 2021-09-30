@@ -70,7 +70,7 @@ In Mod 3, you'll begin building up the habits you'll take with you beyond Turing
 
 ## Deliverables 
 
-### 1. React Review (Due Last Friday 5pm of Intermission Week)
+### 1. React Review *(required)*
 Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
 * What is a "data model", and how does it relate to the DOM in a front-end application?
@@ -84,9 +84,9 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
-**Before the due date, send a link to your gist in a DM to _both_ of your instructors.**
+**By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
 
-### 2. LinkedIn Updates
+### 2. LinkedIn Updates *(required)*
 Please update your LinkedIn profiles with...  
 * additional skills that you’ve learned since Mod 1
 * ensure you have technical keywords in your About Me professional story
@@ -95,8 +95,7 @@ Please update your LinkedIn profiles with...
 
 [Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
 
-### Instructional Extras
-[*optional*]
+### 3. Instructional Extras *(optional)*
 
 Here are some additional resources:
 
