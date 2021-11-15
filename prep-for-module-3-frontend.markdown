@@ -9,7 +9,7 @@
 
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
 
-Choose **one** of the tutorials below to get introduced to React:
+Complete **one** of the tutorials below to get introduced to React:
 * [Tyler McGinnis's React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
 * [Scrimba React Course](https://scrimba.com/learn/learnreact)
@@ -24,7 +24,8 @@ We are going to learn a new type of testing! In Mods 1 and 2, you learned about 
 * Practice writing user stories by creating some user stories for a Mod 2 or Mod 1 project
 
 ### Destructuring
-Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
+Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works.   
+* Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html)
 
 ### Workflow
 
@@ -35,7 +36,7 @@ Workflow is something you will deal with every day on the job. Let's continue st
 
 ### Tooling 
 
-Install the [React Dev Tools.](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* Install the [React Dev Tools.](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 You'll need to make sure you've got the Xcode Command Line Tools before the mod starts. The CLT are necessary for many of React's dependencies to work as expected. 
 
@@ -47,14 +48,6 @@ xcode-select -v
 xcode-select --install
 
 ```
-
-### Habits
-
-In Mod 3, you'll begin building up the habits you'll take with you beyond Turing. Track your schedule and learning process over break! 
-
-- When do you work most effectively? The morning? The afternoon? The evening? 
-- While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
-- What are some daily routines you need to keep up in order to be well-rested and able to learn?
 
 ## Deliverables 
 
