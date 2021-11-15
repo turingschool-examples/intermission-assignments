@@ -76,7 +76,7 @@ Please update your LinkedIn profiles with...
 
 [Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
 
-### 3. Extras *(optional)*
+## Extra Resources
 
 Here are some additional resources:
 
