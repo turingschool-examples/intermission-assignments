@@ -12,15 +12,11 @@ Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it i
 
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
 
-Go through these resources to get started learning some React!
-
-* Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-* Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
-* Take a deeper dive into JSX with the [React docs](https://reactjs.org/docs/introducing-jsx.html) and this [tutorial](https://flaviocopes.com/jsx/)
-* Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)
-* Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React!
-
-We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
+Choose **one** of the tutorials below to get introduced to React:
+* Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
+* [Scrimba React Course](https://scrimba.com/learn/learnreact)
+* Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React! We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
 
 ### Asynchronous JavaScript
 
@@ -99,10 +95,11 @@ Please update your LinkedIn profiles with...
 
 Here are some additional resources:
 
-- [Free Scrimba React Course](https://scrimba.com/learn/learnreact) (*recommended!* A good introductory overview of basic React!)
-- [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
+- Take a deeper dive into JSX with the [React docs](https://reactjs.org/docs/introducing-jsx.html) and this [tutorial](https://flaviocopes.com/jsx/)
+- Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)- [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
 - [Intro to JS Modules](https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/) (Ever been confused about `module.exports` vs `export default`? When to use `import` vs `require()`? Read this for some clarity)
 - [NPM Refresher](https://ui.dev/npm/) (We're going to be using a lot of packages, make sure you're comfortable with your pakcage manager!)
 - [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
+- 
