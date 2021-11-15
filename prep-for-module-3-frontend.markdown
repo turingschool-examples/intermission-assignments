@@ -2,9 +2,6 @@
 
 ## Instructional Pre-Work for Mod 3
 
-### Destructuring
-Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
-
 ### Libraries and Frameworks
 
 * What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
@@ -13,18 +10,10 @@ Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it i
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
 
 Choose **one** of the tutorials below to get introduced to React:
-* Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* [Tyler McGinnis's React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
 * [Scrimba React Course](https://scrimba.com/learn/learnreact)
 * Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React! We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
-
-### Asynchronous JavaScript
-
-We will continue to work with asynchronous JavaScript, mainly when we use network requests to get data from servers (like using the `fetch`). We will go in depth with asynchronous JavaScript, including how to test it in mod 3.
-
-* Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
-* Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
-* Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
 
 ### Testing paradigms
 
@@ -33,6 +22,9 @@ We are going to learn a new type of testing! In Mods 1 and 2, you learned about 
 * Read [this blog post](https://www.guru99.com/end-to-end-testing.html) for a high level overview of E2E
 * Watch [this video](https://youtu.be/Fw98L-kcRpc) to learn about "user stories" in agile workflows - this will help us figure out how to write our E2E tests!
 * Practice writing user stories by creating some user stories for a Mod 2 or Mod 1 project
+
+### Destructuring
+Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
 
 ### Workflow
 
@@ -102,4 +94,6 @@ Here are some additional resources:
 - [NPM Refresher](https://ui.dev/npm/) (We're going to be using a lot of packages, make sure you're comfortable with your pakcage manager!)
 - [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
-- 
+- Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
+- Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
+- Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
