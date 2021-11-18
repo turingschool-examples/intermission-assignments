@@ -12,9 +12,10 @@ There are a bunch of JavaScript frameworks out there to use. At Turing, we choos
 Complete **one** of the tutorials below to get introduced to React:
 * [Tyler McGinnis's React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
-<!-- * [Updated Scrimba React Course](https://scrimba.com/learn/learnreact) -->
 * [Original Scrimba React Course](https://scrimba.com/playlist/p7P5Hd)
 * Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React! We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
+<!-- * [Updated Scrimba React Course](https://scrimba.com/learn/learnreact) -->
+
 
 ### Testing paradigms
 
