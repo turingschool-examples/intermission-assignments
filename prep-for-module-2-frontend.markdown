@@ -37,19 +37,6 @@ Its important to consider how users will be interacting with our applications. R
 
 ------------------------------------------------------
 
-<!-- ## JSON & Application Data
-
-In Mod 2 you'll be working with a lot of **application data**. Familiarize yourself with:
-
--*What JSON is, why it exists, and where you might see it being used*  
--*The difference between JSON and a regular JavaScript object*
-  - Read the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
-) on JSON. Complete the tutorial/exercise `Active learning: Working through a JSON example`.
-  - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
-  - Install the Chrome Extension `JSONView` to make JSON more readable in the browser -->
-
-------------------------------------------------------
-
 ## Debugging
 
 While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
