@@ -48,33 +48,16 @@ In Mod 2 you'll be working with a lot of **application data**. Familiarize yours
   - Read [this](https://www.digitalocean.com/community/tutorials/an-introduction-to-json) intro to JSON
   - Install the Chrome Extension `JSONView` to make JSON more readable in the browser -->
 
-## Linting
-
-In Mod 1, you were given general [style guides](https://github.com/turingschool-examples/javascript/tree/master/es5) for how you should be writing your code. In Mod 2, we're going to enforce a linter. A linter helps make sure that the way you write your JavaScript conforms to certain stylistic patterns and best practices.
-
-We'll be working with a tool called [eslint](https://eslint.org/), and your projects will be required to abide by the following [rules](https://github.com/turingschool-examples/javascript/blob/master/linters/module-2/non-react/.eslintrc). Read through the "rules" object in the `.eslintrc` file and look through the eslint documentation to [find each rule](https://eslint.org/docs/rules/), and familiarize yourself with what it does.
-
-Set yourself up with eslint by installing it with npm. In your terminal (from any directory), run the following command:
-
-`npm install -g eslint`
-
-
-
-
 ------------------------------------------------------
-
-
 
 ## Debugging
 
 While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
 
-
-
 ------------------------------------------------------
-
-
-
+## Array Prototype Methods: Iterators
+- Iterator methods are one of the key concepts of M2. If you find some extra time, make sure to read the [array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html)
+------------------------------------------------------
 
 ## Coding: Refactor Mod 1 Projects
 
@@ -86,14 +69,12 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
     - Focus on: `forEach`, `map`, `filter`, `find`, `sort`, and `reduce`
   - *Try out converting some ES5 syntax to ES6*
     - You can refactor and your projects they should still work in Google Chrome
-  - *Install the linter configuration and lint your JavaScript style*
-    - Add the `.eslintrc` file linked above to your project directory (it must be named `.eslintrc`)
-    - From your terminal, within your project directory, run: `eslint ./index.js` (or the path to whatever JavaScript file you want to lint)
-    - Read through the output and fix the errors - you are given line numbers and an explanation of what's wrong for each error.
-
 
 ## CodeWars
 
 If you haven't already, sign up for an account at [Codewars](https://www.codewars.com). You'll want to make doing these exercises a regular part of your practice _outside_ of the work that you are doing on projects. It is recommended that you start by filtering the exercises (Katas) so that you are coding at a Level 8. As you progress you should move into Levels 6 & 7. By the end of the module, the expectation is that you can work through what is considered the equivalent of a level 7 exercise. Doing these exercises will you give you the additional reps that are necessary to take the content that is learned in class and apply it in a different context - thus, solidifying your learning.
 
 **Make sure to add your codewars handle [here](https://docs.google.com/spreadsheets/d/1WmknP_wLCB7hp8ntk5Gr3AP4FE8I2Yn8wCZfbNHTJt4/edit#gid=0)**
+
+
+
