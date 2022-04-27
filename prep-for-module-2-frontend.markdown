@@ -40,8 +40,8 @@ You may have come across some ES6 syntax throughout your independent study (incl
 ------------------------------------------------------
 ## Array Prototype Methods: Iterators
 
-- Iterator methods are one of the key concepts of M2. Check out [this activity](https://replit.com/@kaylaewood/mod2iteratorpreview#index.js). Use [the array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html) and [the MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)!
-- Many students have found [this TreeHouse course](https://teamtreehouse.com/library/javascript-array-iteration-methods) to be helpful in their preparation for M2.
+- Iterator methods are one of the key concepts of M2. Check out [this activity](https://replit.com/@kaylaewood/mod2iteratorpreview#index.js). Need help? Use [the array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html) and [the MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)!
+- Also, many students have found [this TreeHouse course](https://teamtreehouse.com/library/javascript-array-iteration-methods) to be helpful in their preparation for M2.
 ------------------------------------------------------
 
 ## Professional Development
