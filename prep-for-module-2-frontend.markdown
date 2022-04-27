@@ -49,7 +49,6 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
 
 ## Coding: Refactor Mod 1 Projects
 
-  - Familiarize yourself with the syntax of switch statements - *rewrite long, nested if/else statements into [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) if possible*
   - *DRY up your code*
     - Find areas where code is duplicated and break it out into a function
   - *Change for loops into `forEach`*
