@@ -3,7 +3,7 @@
 
 ## Solidifying & Building on Mod 1 Concepts
 
-Please take some to review some of the topics in this [Data Types](https://frontend.turing.io/lessons/module-2/data-types-in-js.html) lesson.  It reviews not only the data types you've explored but also gets more into dynamic vs static typed languages, type coercion, and why we're able to call methods or access properties on primitive data types (`'yolo'.toUpperCase()`).
+Please take some to review some of the topics in this [Data Types](https://frontend.turing.edu/lessons/module-2/data-types-in-js.html) lesson.  It reviews not only the data types you've explored but also gets more into dynamic vs static typed languages, type coercion, and why we're able to call methods or access properties on primitive data types (`'yolo'.toUpperCase()`).
 
 Also, please make a fresh copy of [this google doc](https://docs.google.com/document/d/1xUc38HU5JCr4-b7bg8XiYqEXgg6jZ4-qKRQLGNrXBtc/edit) that you can edit.  This document contains some reading material and practice exercises that will help you solidify important concepts from Mod 1. Some information might be new to you, some might be review.
 
