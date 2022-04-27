@@ -7,7 +7,7 @@ Please take some to review some of the topics in this [Data Types](https://front
 
 Also, please make a fresh copy of [this google doc](https://docs.google.com/document/d/1xUc38HU5JCr4-b7bg8XiYqEXgg6jZ4-qKRQLGNrXBtc/edit) that you can edit.  This document contains some reading material and practice exercises that will help you solidify important concepts from Mod 1. Some information might be new to you, some might be review.
 
-You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **If you are unsure of any of your answers, take note of it. You should have this completed (along with any notes) to bring with you on Day 1 of Mod 2.**
+You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. If you are unsure of any of your answers, take note of it. You should have this completed (along with any notes) to bring with you on Day 1 of Mod 2.
 
 ❗️ Deliverable: After you've completed the exercises in the google doc, please submit your link [here](https://docs.google.com/spreadsheets/d/1Y9_tBnqKA2dxzX63s674DJ0kqYoE9A7ilU4_i_szySU/edit?usp=sharing). (Please also make sure you allow us permissions to view it!)
 
