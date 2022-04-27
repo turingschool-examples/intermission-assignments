@@ -57,3 +57,8 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
   - *Try out converting some ES5 syntax to ES6*
     - You can refactor and your projects they should still work in Google Chrome
 
+------------------------------------------------------
+
+## Professional Development
+
+You will need to create a resume in Mod 2. Many students find it difficult to balance creating a resume with completing project work. It is recommended that you begin working on your resume as soon as possible to lessen the load down the line. You can start by pre-reading [this PD lesson](https://careerdev.turing.edu/module_two/mod2_week1) and starting a draft of your resume.
