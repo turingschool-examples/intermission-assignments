@@ -29,23 +29,23 @@ You may have come across some ES6 syntax throughout your independent study (incl
 
 ## User Interface & User Experience (UI/UX)
 
-Its important to consider how users will be interacting with our applications. Review this [Intro to UI/UX lesson](https://frontend.turing.edu/lessons/module-2/intro-ui-ux-empathy-in-design.html). In M2 we will be learning about the user experience in terms of accessibility. This will give you a great introduction in thinking about your future users. 
+- Its important to consider how users will be interacting with our applications. Review this [Intro to UI/UX lesson](https://frontend.turing.edu/lessons/module-2/intro-ui-ux-empathy-in-design.html). In M2 we will be learning about the user experience in terms of accessibility. This will give you a great introduction in thinking about your future users. 
 
 ------------------------------------------------------
 
 ## Debugging
 
-While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
+- While you may have seen and used the browser's Developer Tools in module 1, we'd like you to step through this Udemy course on [Dev Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/). Some of it may be review, but you may pick up some new tricks along the way!
 
 ------------------------------------------------------
-## Array Prototype Methods: Iterators  
-  
-Iterator methods are one of the key concepts of M2. If you find some extra time, make sure to read the [array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html). Many students have found [this TreeHouse course](https://teamtreehouse.com/library/javascript-array-iteration-methods) to be helpful in their preparation for M2.
+## Array Prototype Methods: Iterators
+
+- Iterator methods are one of the key concepts of M2. If you find some extra time, make sure to read the [array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html). Many students have found [this TreeHouse course](https://teamtreehouse.com/library/javascript-array-iteration-methods) to be helpful in their preparation for M2.
 ------------------------------------------------------
 
 ## Professional Development
 
-The job hunt is getting closer! You will be expected to create a resume in Mod 2. Many students find it difficult to balance creating a resume with completing project work. It is recommended that you write a first draft your resume over intermission to lessen the load down the line. Start by pre-reading [this PD lesson](https://careerdev.turing.edu/module_two/mod2_week1) and then begin a draft of your resume.
+- The job hunt is getting closer! You will be expected to create a resume in Mod 2. Many students find it difficult to balance creating a resume with completing project work. It is recommended that you write a first draft your resume over intermission to lessen the load down the line. Start by pre-reading [this PD lesson](https://careerdev.turing.edu/module_two/mod2_week1) and then begin a draft of your resume.
 
 ------------------------------------------------------
 
