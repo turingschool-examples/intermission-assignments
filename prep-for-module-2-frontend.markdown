@@ -43,7 +43,7 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
 - Iterator methods are one of the key concepts of M2. If you find some extra time, make sure to read the [array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html). Many students have found [this TreeHouse course](https://teamtreehouse.com/library/javascript-array-iteration-methods) to be helpful in their preparation for M2.
 ------------------------------------------------------
 
-## Coding: Refactor Mod 1 Projects
+## Refactor Mod 1 Projects
 
   - *DRY up your code*
     - Find areas where code is duplicated and break it out into a function
