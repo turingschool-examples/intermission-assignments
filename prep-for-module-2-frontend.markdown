@@ -61,4 +61,4 @@ While you may have seen and used the browser's Developer Tools in module 1, we'd
 
 ## Professional Development
 
-You will need to create a resume in Mod 2. Many students find it difficult to balance creating a resume with completing project work. It is recommended that you begin working on your resume as soon as possible to lessen the load down the line. Start by pre-reading [this PD lesson](https://careerdev.turing.edu/module_two/mod2_week1) and then create a draft of your resume.
+You will be expected to create a resume in Mod 2. Many students find it difficult to balance creating a resume with completing project work. It is recommended that you begin working on your resume as soon as possible to lessen the load down the line. Start by pre-reading [this PD lesson](https://careerdev.turing.edu/module_two/mod2_week1) and then create a draft of your resume.
