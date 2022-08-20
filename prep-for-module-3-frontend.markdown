@@ -38,7 +38,7 @@ Workflow is something you will deal with every day on the job. Let's continue st
 
 ### Tooling 
 
-* Install [Postman](https://app.getpostman.com/app/download/osx64) and watch [this video](https://www.youtube.com/watch?v=MRw07FQRscI)
+* Install [Postman](https://www.postman.com/downloads/) (be sure you download the correct version for your mac) and watch [this video](https://www.youtube.com/watch?v=MRw07FQRscI)
 * Install the [React Dev Tools.](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 You'll need to make sure you've got the Xcode Command Line Tools before the mod starts. The CLT are necessary for many of React's dependencies to work as expected. 
