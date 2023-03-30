@@ -87,12 +87,11 @@ Please update your LinkedIn profiles with...
 Here are some additional resources:
 
 - Take a deeper dive into JSX with the [React docs](https://react.dev/learn/javascript-in-jsx-with-curly-braces) and this [tutorial](https://flaviocopes.com/jsx/)
-- Take a look at some extra [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
+- Take a look at the [Cypress](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress). We will be utilizing end-to-end testing in M3 to test our React applications.
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
 - [Intro to JS Modules](https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/) (Ever been confused about `module.exports` vs `export default`? When to use `import` vs `require(`? Read this for some clarity. This article provides a clear explanation of when to use export default import/export. Although you may find some class components in the article, we've shared it with you because it effectively explains when to use each method.)
-
+- We will have code challenges during M3 to prepare you for your interviews. If you have time, make sure to visit [Codewars](https://www.codewars.com/) and work on challenges with a 6 or 7 ranking.
 - [NPM Refresher](https://ui.dev/npm/) (We're going to be using a lot of packages, make sure you're comfortable with your package manager!)
-- [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
 - Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
 - Read [Fetching data with Effects](https://react.dev/reference/react/useEffect#fetching-data-with-effects) to learn about incorporating network requests in React apps.
