@@ -10,9 +10,9 @@
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
 
 Complete **one** of the tutorials below to get introduced to React:
-* [Tyler McGinnis's React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://ui.dev/react-hooks)
+* [Original Scrimba React Course](https://scrimba.com/playlist/p7P5Hd) - In M3, the initial focus will be on learning functional components and the utilization of hooks. Therefore, start by watching the Hooks portion of this lesson.
 * [React tutorial from the docs](https://react.dev/learn/tutorial-tic-tac-toe)
-* [Original Scrimba React Course](https://scrimba.com/learn/learnreact) - In M3 the initial focus will be on learning functional components and the utilization of hooks.
+* [Hooks Scrimba React Course](https://scrimba.com/learn/learnreact) - In M3 the initial focus will be on learning functional components and the utilization of hooks.
 * Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React! We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
 
 
@@ -68,7 +68,9 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 * What is React "state?"
 * What does "data down, actions up" mean in React?
 
-_Note:_ As you do your research, be aware that if you come across tutorials discussing class components, they may be related to older versions of React. We used to rely on class components before hooks were introduced. We _will_ be learning hooks in Mod 3, and they are now the more modern and recommended approach.  
+_Note:_ As you do your research, be aware that if you come across tutorials discussing class components, they may be related to older versions of React.It's important to note that it's still very possible that you will run into class-based React components in legacy code on the job.
+We used to rely on class components before hooks were introduced. We _will_ be learning hooks in Mod 3, and they are now the more modern and recommended approach. 
+
 **By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
 
 ### 2. LinkedIn Updates *(required)*
@@ -86,7 +88,7 @@ Please update your LinkedIn profiles with...
 
 Here are some additional resources:
 
-- Take a deeper dive into JSX with the [React docs](https://react.dev/learn/javascript-in-jsx-with-curly-braces) and this [tutorial](https://flaviocopes.com/jsx/)
+- Take a deeper dive into JSX with the [React docs](https://react.dev/learn/javascript-in-jsx-with-curly-braces) and this [article](https://flaviocopes.com/jsx/)
 - Take a look at the [Cypress](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress). We will be utilizing end-to-end testing in M3 to test our React applications.
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
 - [Intro to JS Modules](https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/) (Ever been confused about `module.exports` vs `export default`? When to use `import` vs `require(`? Read this for some clarity. This article provides a clear explanation of when to use export default import/export. Although you may find some class components in the article, we've shared it with you because it effectively explains when to use each method.)
