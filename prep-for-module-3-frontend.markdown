@@ -66,6 +66,7 @@ Create a GitHub gist to answer these questions in as much detail as possible. Im
 * What is JSX?
 * What are React "props?"
 * What is React "state?"
+* How might we use the `useState` hook within an React application?
 * What does "data down, actions up" mean in React?
 
 _Note:_ As you do your research, be aware that if you come across tutorials discussing class components, they may be related to older versions of React.It's important to note that it's still very possible that you will run into class-based React components in legacy code on the job.
